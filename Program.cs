@@ -164,6 +164,9 @@ app.MapGet("/customers/{customerId:int}/risk-summary", (int customerId) =>
 app.MapGet("/health", () =>
     Results.Ok(new { status = "healthy", timestamp = DateTime.UtcNow }));
 
+// Default root endpoint forwards to /health
+app.MapGet("/", () => Results.Redirect("/health"));
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

@@ -1,0 +1,628 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "AI Tool API",
+    "version": "v1"
+  },
+  "paths": {
+    "/alerts": {
+      "get": {
+        "tags": [
+          "AiTool.Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Alert"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/alerts/{id}": {
+      "get": {
+        "tags": [
+          "AiTool.Api"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/alerts/by-severity/{severity}": {
+      "get": {
+        "tags": [
+          "AiTool.Api"
+        ],
+        "parameters": [
+          {
+            "name": "severity",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Alert"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/customers/{customerId}/alerts": {
+      "get": {
+        "tags": [
+          "AiTool.Api"
+        ],
+        "parameters": [
+          {
+            "name": "customerId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Alert"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/crm-insights": {
+      "get": {
+        "tags": [
+          "AiTool.Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CrmInsight"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/customers/{customerId}/crm-insights": {
+      "get": {
+        "tags": [
+          "AiTool.Api"
+        ],
+        "parameters": [
+          {
+            "name": "customerId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CrmInsight"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/crm-insights/high-priority": {
+      "get": {
+        "tags": [
+          "AiTool.Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CrmInsight"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/customers/profiles": {
+      "get": {
+        "tags": [
+          "AiTool.Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CustomerProfile"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/customers/{customerId}/profile": {
+      "get": {
+        "tags": [
+          "AiTool.Api"
+        ],
+        "parameters": [
+          {
+            "name": "customerId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/customers/behaviours": {
+      "get": {
+        "tags": [
+          "AiTool.Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CustomerBehaviour"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/customers/{customerId}/behaviour": {
+      "get": {
+        "tags": [
+          "AiTool.Api"
+        ],
+        "parameters": [
+          {
+            "name": "customerId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/transactions": {
+      "get": {
+        "tags": [
+          "AiTool.Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Transaction"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/customers/{customerId}/transactions": {
+      "get": {
+        "tags": [
+          "AiTool.Api"
+        ],
+        "parameters": [
+          {
+            "name": "customerId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Transaction"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/transactions/by-status/{status}": {
+      "get": {
+        "tags": [
+          "AiTool.Api"
+        ],
+        "parameters": [
+          {
+            "name": "status",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Transaction"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/customers/{customerId}/risk-summary": {
+      "get": {
+        "tags": [
+          "AiTool.Api"
+        ],
+        "parameters": [
+          {
+            "name": "customerId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/health": {
+      "get": {
+        "tags": [
+          "AiTool.Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Alert": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "alertCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "alertType": {
+            "type": "string",
+            "nullable": true
+          },
+          "alertSource": {
+            "type": "string",
+            "nullable": true
+          },
+          "severity": {
+            "type": "string",
+            "nullable": true
+          },
+          "customerId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "customerName": {
+            "type": "string",
+            "nullable": true
+          },
+          "accountNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "amount": {
+            "type": "number",
+            "format": "double"
+          },
+          "currency": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
+            "type": "string",
+            "nullable": true
+          },
+          "riskScore": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CrmInsight": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "customerId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "customerName": {
+            "type": "string",
+            "nullable": true
+          },
+          "insightType": {
+            "type": "string",
+            "nullable": true
+          },
+          "category": {
+            "type": "string",
+            "nullable": true
+          },
+          "priority": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "status": {
+            "type": "string",
+            "nullable": true
+          },
+          "potentialRevenue": {
+            "type": "number",
+            "format": "double"
+          },
+          "generatedAt": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CustomerBehaviour": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "customerId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "avgNoOfMonthlyTransaction": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "avgTransactionAmount": {
+            "type": "number",
+            "format": "double"
+          },
+          "maxTransactionAmount": {
+            "type": "number",
+            "format": "double"
+          },
+          "preferredChannels": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "nullable": true
+          },
+          "transactionPattern": {
+            "type": "string",
+            "nullable": true
+          },
+          "loginFrequency": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "lastActivityTimeStamp": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CustomerProfile": {
+        "type": "object",
+        "properties": {
+          "customerId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "kycLevel": {
+            "type": "string",
+            "nullable": true
+          },
+          "occupation": {
+            "type": "string",
+            "nullable": true
+          },
+          "relationshipType": {
+            "type": "string",
+            "nullable": true
+          },
+          "riskRating": {
+            "type": "string",
+            "nullable": true
+          },
+          "segment": {
+            "type": "string",
+            "nullable": true
+          },
+          "linkedAccounts": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Transaction": {
+        "type": "object",
+        "properties": {
+          "transactionId": {
+            "type": "string",
+            "nullable": true
+          },
+          "type": {
+            "type": "string",
+            "nullable": true
+          },
+          "transactionType": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
+            "type": "string",
+            "nullable": true
+          },
+          "amount": {
+            "type": "number",
+            "format": "double"
+          },
+          "currency": {
+            "type": "string",
+            "nullable": true
+          },
+          "channel": {
+            "type": "string",
+            "nullable": true
+          },
+          "timestamp": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
