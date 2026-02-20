@@ -15,4 +15,3 @@ services:
         value: Production
       - key: DOTNET_ENVIRONMENT
         value: Production
-``
