@@ -1,0 +1,1387 @@
+[
+  {
+    "customerId": 5513,
+    "kycLevel": "Partial",
+    "occupation": "Business Owner",
+    "relationshipType": "Premium",
+    "riskRating": "High",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB41NWBK54507499248207",
+      "GB64NWBK33547612028130"
+    ]
+  },
+  {
+    "customerId": 9383,
+    "kycLevel": "Partial",
+    "occupation": "Freelancer",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB34WEST33187738266505",
+      "GB57NWBK78719778999920"
+    ]
+  },
+  {
+    "customerId": 6624,
+    "kycLevel": "Full",
+    "occupation": "Consultant",
+    "relationshipType": "Premium",
+    "riskRating": "High",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB81NWBK35047082625489"
+    ]
+  },
+  {
+    "customerId": 2248,
+    "kycLevel": "Partial",
+    "occupation": "Operations Manager",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB54BARC59895548935178"
+    ]
+  },
+  {
+    "customerId": 2698,
+    "kycLevel": "Full",
+    "occupation": "Software Engineer",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB93WEST48932451211571",
+      "GB33WEST91640221749148"
+    ]
+  },
+  {
+    "customerId": 9964,
+    "kycLevel": "Partial",
+    "occupation": "Operations Manager",
+    "relationshipType": "Corporate",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB71BARC42867389266435",
+      "GB54NWBK35477648699657"
+    ]
+  },
+  {
+    "customerId": 9787,
+    "kycLevel": "Partial",
+    "occupation": "Software Engineer",
+    "relationshipType": "Corporate",
+    "riskRating": "Low",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB46WEST33981598191136",
+      "GB93HSBC69908534792160"
+    ]
+  },
+  {
+    "customerId": 9820,
+    "kycLevel": "Minimal",
+    "occupation": "Business Owner",
+    "relationshipType": "Corporate",
+    "riskRating": "High",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB97BARC93510936017732"
+    ]
+  },
+  {
+    "customerId": 2651,
+    "kycLevel": "Partial",
+    "occupation": "Trader",
+    "relationshipType": "Corporate",
+    "riskRating": "Medium",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB12HSBC54325126574293",
+      "GB50BARC57003549026706"
+    ]
+  },
+  {
+    "customerId": 1330,
+    "kycLevel": "Minimal",
+    "occupation": "Trader",
+    "relationshipType": "Corporate",
+    "riskRating": "Low",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB98WEST42341758761131"
+    ]
+  },
+  {
+    "customerId": 9037,
+    "kycLevel": "Partial",
+    "occupation": "Consultant",
+    "relationshipType": "Corporate",
+    "riskRating": "Medium",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB31WEST40197329200848"
+    ]
+  },
+  {
+    "customerId": 5876,
+    "kycLevel": "Full",
+    "occupation": "Software Engineer",
+    "relationshipType": "Standard",
+    "riskRating": "Low",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB89HSBC59826191815601"
+    ]
+  },
+  {
+    "customerId": 4119,
+    "kycLevel": "Full",
+    "occupation": "Consultant",
+    "relationshipType": "Corporate",
+    "riskRating": "Low",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB56BARC93115746878971",
+      "GB10NWBK23252346114294"
+    ]
+  },
+  {
+    "customerId": 9518,
+    "kycLevel": "Partial",
+    "occupation": "Software Engineer",
+    "relationshipType": "Premium",
+    "riskRating": "High",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB34BARC52431883659622"
+    ]
+  },
+  {
+    "customerId": 1007,
+    "kycLevel": "Partial",
+    "occupation": "Operations Manager",
+    "relationshipType": "Premium",
+    "riskRating": "Medium",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB75BARC23123342245546",
+      "GB35WEST76062826809813"
+    ]
+  },
+  {
+    "customerId": 1614,
+    "kycLevel": "Partial",
+    "occupation": "Consultant",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB31BARC29875199422146",
+      "GB11NWBK11424635920842"
+    ]
+  },
+  {
+    "customerId": 3605,
+    "kycLevel": "Partial",
+    "occupation": "Trader",
+    "relationshipType": "Premium",
+    "riskRating": "Low",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB64WEST75308766208286",
+      "GB79HSBC10837647251651"
+    ]
+  },
+  {
+    "customerId": 9105,
+    "kycLevel": "Partial",
+    "occupation": "Chartered Accountant",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB12BARC44263276648520",
+      "GB15HSBC30762637340731"
+    ]
+  },
+  {
+    "customerId": 8246,
+    "kycLevel": "Partial",
+    "occupation": "Chartered Accountant",
+    "relationshipType": "Standard",
+    "riskRating": "Low",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB68WEST21765410214708"
+    ]
+  },
+  {
+    "customerId": 3507,
+    "kycLevel": "Minimal",
+    "occupation": "Consultant",
+    "relationshipType": "Corporate",
+    "riskRating": "Medium",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB40NWBK75946326079838",
+      "GB86HSBC30745718643673"
+    ]
+  },
+  {
+    "customerId": 5796,
+    "kycLevel": "Minimal",
+    "occupation": "Operations Manager",
+    "relationshipType": "Standard",
+    "riskRating": "Low",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB43NWBK49666034785827"
+    ]
+  },
+  {
+    "customerId": 5285,
+    "kycLevel": "Partial",
+    "occupation": "Chartered Accountant",
+    "relationshipType": "Premium",
+    "riskRating": "Low",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB48WEST83791493352797"
+    ]
+  },
+  {
+    "customerId": 3380,
+    "kycLevel": "Full",
+    "occupation": "Trader",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB98NWBK98929582997117"
+    ]
+  },
+  {
+    "customerId": 9933,
+    "kycLevel": "Full",
+    "occupation": "Business Owner",
+    "relationshipType": "Premium",
+    "riskRating": "Low",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB63BARC75376565785677"
+    ]
+  },
+  {
+    "customerId": 9089,
+    "kycLevel": "Minimal",
+    "occupation": "Business Owner",
+    "relationshipType": "Standard",
+    "riskRating": "Low",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB49HSBC33660667594824"
+    ]
+  },
+  {
+    "customerId": 4593,
+    "kycLevel": "Minimal",
+    "occupation": "Trader",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB65WEST32185611359213"
+    ]
+  },
+  {
+    "customerId": 3817,
+    "kycLevel": "Minimal",
+    "occupation": "Business Owner",
+    "relationshipType": "Corporate",
+    "riskRating": "High",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB10WEST66897774457784",
+      "GB75BARC25822837765802"
+    ]
+  },
+  {
+    "customerId": 4340,
+    "kycLevel": "Partial",
+    "occupation": "Consultant",
+    "relationshipType": "Premium",
+    "riskRating": "Medium",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB17BARC50321963902423",
+      "GB98HSBC32905915756322"
+    ]
+  },
+  {
+    "customerId": 2578,
+    "kycLevel": "Partial",
+    "occupation": "Chartered Accountant",
+    "relationshipType": "Premium",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB96NWBK20415419527185"
+    ]
+  },
+  {
+    "customerId": 4201,
+    "kycLevel": "Full",
+    "occupation": "Business Owner",
+    "relationshipType": "Premium",
+    "riskRating": "Low",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB31HSBC66254881182035",
+      "GB53HSBC24039617885120"
+    ]
+  },
+  {
+    "customerId": 8263,
+    "kycLevel": "Full",
+    "occupation": "Business Owner",
+    "relationshipType": "Corporate",
+    "riskRating": "Medium",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB41WEST69269828272833"
+    ]
+  },
+  {
+    "customerId": 8705,
+    "kycLevel": "Partial",
+    "occupation": "Operations Manager",
+    "relationshipType": "Premium",
+    "riskRating": "Medium",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB82BARC98662530574802",
+      "GB12HSBC22354447299916"
+    ]
+  },
+  {
+    "customerId": 8120,
+    "kycLevel": "Partial",
+    "occupation": "Trader",
+    "relationshipType": "Corporate",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB29HSBC58593769226617"
+    ]
+  },
+  {
+    "customerId": 5979,
+    "kycLevel": "Full",
+    "occupation": "Business Owner",
+    "relationshipType": "Corporate",
+    "riskRating": "Low",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB37WEST84373662944361",
+      "GB70HSBC60967618611371"
+    ]
+  },
+  {
+    "customerId": 6902,
+    "kycLevel": "Partial",
+    "occupation": "Chartered Accountant",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB91BARC29827129873263"
+    ]
+  },
+  {
+    "customerId": 6430,
+    "kycLevel": "Minimal",
+    "occupation": "Chartered Accountant",
+    "relationshipType": "Premium",
+    "riskRating": "High",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB86WEST93556152611578",
+      "GB98NWBK78956426182656"
+    ]
+  },
+  {
+    "customerId": 3942,
+    "kycLevel": "Partial",
+    "occupation": "Business Owner",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB28HSBC91291842514621",
+      "GB60BARC68122689038037"
+    ]
+  },
+  {
+    "customerId": 1564,
+    "kycLevel": "Full",
+    "occupation": "Consultant",
+    "relationshipType": "Corporate",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB47BARC95529257808831"
+    ]
+  },
+  {
+    "customerId": 3932,
+    "kycLevel": "Full",
+    "occupation": "Software Engineer",
+    "relationshipType": "Corporate",
+    "riskRating": "Low",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB57NWBK89401283977789"
+    ]
+  },
+  {
+    "customerId": 4084,
+    "kycLevel": "Minimal",
+    "occupation": "Operations Manager",
+    "relationshipType": "Corporate",
+    "riskRating": "Low",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB51BARC17575499562273"
+    ]
+  },
+  {
+    "customerId": 1867,
+    "kycLevel": "Minimal",
+    "occupation": "Software Engineer",
+    "relationshipType": "Corporate",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB80HSBC96648681328503",
+      "GB56BARC76730348534935"
+    ]
+  },
+  {
+    "customerId": 3212,
+    "kycLevel": "Minimal",
+    "occupation": "Business Owner",
+    "relationshipType": "Premium",
+    "riskRating": "Medium",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB54HSBC72488034710660",
+      "GB75NWBK76872321239617"
+    ]
+  },
+  {
+    "customerId": 3830,
+    "kycLevel": "Minimal",
+    "occupation": "Software Engineer",
+    "relationshipType": "Premium",
+    "riskRating": "Low",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB77BARC33853789803047"
+    ]
+  },
+  {
+    "customerId": 8856,
+    "kycLevel": "Partial",
+    "occupation": "Consultant",
+    "relationshipType": "Premium",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB83WEST25384169123598",
+      "GB83HSBC29793799612477"
+    ]
+  },
+  {
+    "customerId": 5248,
+    "kycLevel": "Minimal",
+    "occupation": "Software Engineer",
+    "relationshipType": "Standard",
+    "riskRating": "Low",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB37BARC27807032966098"
+    ]
+  },
+  {
+    "customerId": 5555,
+    "kycLevel": "Full",
+    "occupation": "Consultant",
+    "relationshipType": "Corporate",
+    "riskRating": "High",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB95NWBK17306374313123",
+      "GB76BARC60183149959242"
+    ]
+  },
+  {
+    "customerId": 5220,
+    "kycLevel": "Partial",
+    "occupation": "Business Owner",
+    "relationshipType": "Standard",
+    "riskRating": "High",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB82NWBK57558934580932",
+      "GB46HSBC22323726435941"
+    ]
+  },
+  {
+    "customerId": 6918,
+    "kycLevel": "Partial",
+    "occupation": "Chartered Accountant",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB59HSBC97131957868431",
+      "GB97WEST54323447857606"
+    ]
+  },
+  {
+    "customerId": 2990,
+    "kycLevel": "Full",
+    "occupation": "Operations Manager",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB55NWBK69935982538567"
+    ]
+  },
+  {
+    "customerId": 2439,
+    "kycLevel": "Full",
+    "occupation": "Freelancer",
+    "relationshipType": "Premium",
+    "riskRating": "High",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB64BARC55777138779102"
+    ]
+  },
+  {
+    "customerId": 2673,
+    "kycLevel": "Full",
+    "occupation": "Chartered Accountant",
+    "relationshipType": "Standard",
+    "riskRating": "Low",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB84WEST33324179118136",
+      "GB18BARC37233961372082"
+    ]
+  },
+  {
+    "customerId": 9338,
+    "kycLevel": "Full",
+    "occupation": "Freelancer",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB71NWBK80955174517685"
+    ]
+  },
+  {
+    "customerId": 6578,
+    "kycLevel": "Minimal",
+    "occupation": "Business Owner",
+    "relationshipType": "Premium",
+    "riskRating": "High",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB39NWBK49615887780738"
+    ]
+  },
+  {
+    "customerId": 8128,
+    "kycLevel": "Partial",
+    "occupation": "Freelancer",
+    "relationshipType": "Corporate",
+    "riskRating": "High",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB82WEST83955597505408"
+    ]
+  },
+  {
+    "customerId": 5378,
+    "kycLevel": "Partial",
+    "occupation": "Chartered Accountant",
+    "relationshipType": "Corporate",
+    "riskRating": "High",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB11BARC43364194810317"
+    ]
+  },
+  {
+    "customerId": 4265,
+    "kycLevel": "Partial",
+    "occupation": "Software Engineer",
+    "relationshipType": "Standard",
+    "riskRating": "Low",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB27BARC21597549862613",
+      "GB51BARC40609337251800"
+    ]
+  },
+  {
+    "customerId": 9322,
+    "kycLevel": "Full",
+    "occupation": "Freelancer",
+    "relationshipType": "Premium",
+    "riskRating": "Medium",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB80WEST78218712228012"
+    ]
+  },
+  {
+    "customerId": 6434,
+    "kycLevel": "Partial",
+    "occupation": "Trader",
+    "relationshipType": "Corporate",
+    "riskRating": "High",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB18BARC66872616163241"
+    ]
+  },
+  {
+    "customerId": 4904,
+    "kycLevel": "Full",
+    "occupation": "Operations Manager",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB39BARC50729864344766",
+      "GB26BARC50516096146943"
+    ]
+  },
+  {
+    "customerId": 7065,
+    "kycLevel": "Minimal",
+    "occupation": "Business Owner",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB15WEST17243839720205"
+    ]
+  },
+  {
+    "customerId": 9404,
+    "kycLevel": "Partial",
+    "occupation": "Software Engineer",
+    "relationshipType": "Standard",
+    "riskRating": "Low",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB41WEST70954890254243",
+      "GB61NWBK47747791733855"
+    ]
+  },
+  {
+    "customerId": 2753,
+    "kycLevel": "Partial",
+    "occupation": "Consultant",
+    "relationshipType": "Standard",
+    "riskRating": "Low",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB98BARC35464484851731",
+      "GB79HSBC13446785962201"
+    ]
+  },
+  {
+    "customerId": 4316,
+    "kycLevel": "Partial",
+    "occupation": "Operations Manager",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB12NWBK62823085723853"
+    ]
+  },
+  {
+    "customerId": 4464,
+    "kycLevel": "Full",
+    "occupation": "Chartered Accountant",
+    "relationshipType": "Premium",
+    "riskRating": "High",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB62BARC15078964299169"
+    ]
+  },
+  {
+    "customerId": 8945,
+    "kycLevel": "Partial",
+    "occupation": "Business Owner",
+    "relationshipType": "Corporate",
+    "riskRating": "Low",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB36NWBK18942968506936",
+      "GB57NWBK45919469873410"
+    ]
+  },
+  {
+    "customerId": 3280,
+    "kycLevel": "Full",
+    "occupation": "Business Owner",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB46NWBK43846385922843"
+    ]
+  },
+  {
+    "customerId": 4542,
+    "kycLevel": "Partial",
+    "occupation": "Business Owner",
+    "relationshipType": "Premium",
+    "riskRating": "Medium",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB44BARC45193757908603"
+    ]
+  },
+  {
+    "customerId": 4461,
+    "kycLevel": "Minimal",
+    "occupation": "Business Owner",
+    "relationshipType": "Premium",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB12NWBK30283946636218"
+    ]
+  },
+  {
+    "customerId": 4106,
+    "kycLevel": "Partial",
+    "occupation": "Freelancer",
+    "relationshipType": "Corporate",
+    "riskRating": "Medium",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB94HSBC13966438061576"
+    ]
+  },
+  {
+    "customerId": 6377,
+    "kycLevel": "Full",
+    "occupation": "Operations Manager",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB39HSBC46154233736378",
+      "GB17NWBK19611945766476"
+    ]
+  },
+  {
+    "customerId": 4063,
+    "kycLevel": "Partial",
+    "occupation": "Consultant",
+    "relationshipType": "Premium",
+    "riskRating": "Medium",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB49NWBK89847382679743",
+      "GB83NWBK49263128104193"
+    ]
+  },
+  {
+    "customerId": 1303,
+    "kycLevel": "Full",
+    "occupation": "Software Engineer",
+    "relationshipType": "Standard",
+    "riskRating": "High",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB44WEST95906752223370",
+      "GB14NWBK54479154302150"
+    ]
+  },
+  {
+    "customerId": 5548,
+    "kycLevel": "Full",
+    "occupation": "Business Owner",
+    "relationshipType": "Premium",
+    "riskRating": "Low",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB63BARC21918030292396",
+      "GB65WEST70305346094747"
+    ]
+  },
+  {
+    "customerId": 5222,
+    "kycLevel": "Full",
+    "occupation": "Trader",
+    "relationshipType": "Corporate",
+    "riskRating": "Low",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB52NWBK66358133921519",
+      "GB84NWBK60195849700314"
+    ]
+  },
+  {
+    "customerId": 3108,
+    "kycLevel": "Partial",
+    "occupation": "Operations Manager",
+    "relationshipType": "Corporate",
+    "riskRating": "Low",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB64BARC17384821874487"
+    ]
+  },
+  {
+    "customerId": 8753,
+    "kycLevel": "Minimal",
+    "occupation": "Trader",
+    "relationshipType": "Corporate",
+    "riskRating": "High",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB61NWBK94578846309145"
+    ]
+  },
+  {
+    "customerId": 8671,
+    "kycLevel": "Full",
+    "occupation": "Operations Manager",
+    "relationshipType": "Premium",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB65WEST12614622776129"
+    ]
+  },
+  {
+    "customerId": 5221,
+    "kycLevel": "Minimal",
+    "occupation": "Consultant",
+    "relationshipType": "Premium",
+    "riskRating": "High",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB44WEST55318933467287"
+    ]
+  },
+  {
+    "customerId": 8179,
+    "kycLevel": "Minimal",
+    "occupation": "Freelancer",
+    "relationshipType": "Premium",
+    "riskRating": "Medium",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB54WEST47868733249472",
+      "GB52BARC11571520970057"
+    ]
+  },
+  {
+    "customerId": 9176,
+    "kycLevel": "Full",
+    "occupation": "Freelancer",
+    "relationshipType": "Premium",
+    "riskRating": "High",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB90HSBC14888057464716",
+      "GB64WEST13904037878993"
+    ]
+  },
+  {
+    "customerId": 7786,
+    "kycLevel": "Minimal",
+    "occupation": "Software Engineer",
+    "relationshipType": "Standard",
+    "riskRating": "High",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB85HSBC15457129027068",
+      "GB16HSBC82889493848791"
+    ]
+  },
+  {
+    "customerId": 5712,
+    "kycLevel": "Minimal",
+    "occupation": "Business Owner",
+    "relationshipType": "Standard",
+    "riskRating": "Low",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB82WEST28766633664190",
+      "GB41NWBK41109197229921"
+    ]
+  },
+  {
+    "customerId": 4291,
+    "kycLevel": "Partial",
+    "occupation": "Software Engineer",
+    "relationshipType": "Standard",
+    "riskRating": "High",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB93NWBK18442028216130",
+      "GB70WEST67303556029488"
+    ]
+  },
+  {
+    "customerId": 5763,
+    "kycLevel": "Minimal",
+    "occupation": "Chartered Accountant",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB72WEST75629053007017"
+    ]
+  },
+  {
+    "customerId": 2183,
+    "kycLevel": "Partial",
+    "occupation": "Trader",
+    "relationshipType": "Standard",
+    "riskRating": "High",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB55NWBK60728284072221",
+      "GB84HSBC22620465622268"
+    ]
+  },
+  {
+    "customerId": 2793,
+    "kycLevel": "Minimal",
+    "occupation": "Software Engineer",
+    "relationshipType": "Standard",
+    "riskRating": "High",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB88BARC17760495417540",
+      "GB63NWBK91426041549525"
+    ]
+  },
+  {
+    "customerId": 5512,
+    "kycLevel": "Partial",
+    "occupation": "Freelancer",
+    "relationshipType": "Premium",
+    "riskRating": "Medium",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB69WEST37387796943269"
+    ]
+  },
+  {
+    "customerId": 5574,
+    "kycLevel": "Full",
+    "occupation": "Software Engineer",
+    "relationshipType": "Premium",
+    "riskRating": "High",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB61WEST38870714652527"
+    ]
+  },
+  {
+    "customerId": 7485,
+    "kycLevel": "Full",
+    "occupation": "Software Engineer",
+    "relationshipType": "Corporate",
+    "riskRating": "Low",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB72HSBC87899798772457"
+    ]
+  },
+  {
+    "customerId": 1817,
+    "kycLevel": "Full",
+    "occupation": "Chartered Accountant",
+    "relationshipType": "Premium",
+    "riskRating": "Medium",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB54BARC67488129966163",
+      "GB29WEST43684562326889"
+    ]
+  },
+  {
+    "customerId": 4326,
+    "kycLevel": "Minimal",
+    "occupation": "Consultant",
+    "relationshipType": "Standard",
+    "riskRating": "Low",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB29WEST57722219551149",
+      "GB90BARC56736432015042"
+    ]
+  },
+  {
+    "customerId": 5023,
+    "kycLevel": "Minimal",
+    "occupation": "Consultant",
+    "relationshipType": "Corporate",
+    "riskRating": "Low",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB94BARC16096489202246",
+      "GB76HSBC51222140946636"
+    ]
+  },
+  {
+    "customerId": 9461,
+    "kycLevel": "Full",
+    "occupation": "Consultant",
+    "relationshipType": "Standard",
+    "riskRating": "Low",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB71NWBK22480523268725",
+      "GB94BARC11094062659606"
+    ]
+  },
+  {
+    "customerId": 9364,
+    "kycLevel": "Full",
+    "occupation": "Business Owner",
+    "relationshipType": "Premium",
+    "riskRating": "High",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB31BARC83909385449703"
+    ]
+  },
+  {
+    "customerId": 1442,
+    "kycLevel": "Partial",
+    "occupation": "Trader",
+    "relationshipType": "Corporate",
+    "riskRating": "Low",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB96NWBK17827365876772"
+    ]
+  },
+  {
+    "customerId": 8871,
+    "kycLevel": "Minimal",
+    "occupation": "Chartered Accountant",
+    "relationshipType": "Corporate",
+    "riskRating": "Medium",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB29BARC75928196298919",
+      "GB66NWBK18517697319648"
+    ]
+  },
+  {
+    "customerId": 4060,
+    "kycLevel": "Partial",
+    "occupation": "Trader",
+    "relationshipType": "Premium",
+    "riskRating": "Low",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB70WEST31470624495416",
+      "GB34NWBK42393895277582"
+    ]
+  },
+  {
+    "customerId": 3938,
+    "kycLevel": "Minimal",
+    "occupation": "Consultant",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB65WEST23756517710985",
+      "GB15NWBK35166053155838"
+    ]
+  },
+  {
+    "customerId": 6419,
+    "kycLevel": "Full",
+    "occupation": "Business Owner",
+    "relationshipType": "Premium",
+    "riskRating": "High",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB32NWBK44832732577857",
+      "GB22BARC44333311587593"
+    ]
+  },
+  {
+    "customerId": 5174,
+    "kycLevel": "Partial",
+    "occupation": "Freelancer",
+    "relationshipType": "Standard",
+    "riskRating": "Medium",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB80NWBK88183497181597",
+      "GB59NWBK29093021832457"
+    ]
+  },
+  {
+    "customerId": 3020,
+    "kycLevel": "Partial",
+    "occupation": "Consultant",
+    "relationshipType": "Premium",
+    "riskRating": "High",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB65WEST57519833715312",
+      "GB45WEST76496784550737"
+    ]
+  },
+  {
+    "customerId": 8959,
+    "kycLevel": "Minimal",
+    "occupation": "Trader",
+    "relationshipType": "Corporate",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB63NWBK86100073245685"
+    ]
+  },
+  {
+    "customerId": 2234,
+    "kycLevel": "Partial",
+    "occupation": "Business Owner",
+    "relationshipType": "Standard",
+    "riskRating": "High",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB35BARC76365974515931",
+      "GB77HSBC68552492876051"
+    ]
+  },
+  {
+    "customerId": 5688,
+    "kycLevel": "Partial",
+    "occupation": "Trader",
+    "relationshipType": "Corporate",
+    "riskRating": "High",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB14WEST42302983024444"
+    ]
+  },
+  {
+    "customerId": 1078,
+    "kycLevel": "Partial",
+    "occupation": "Operations Manager",
+    "relationshipType": "Corporate",
+    "riskRating": "Low",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB63WEST54727393229452"
+    ]
+  },
+  {
+    "customerId": 6854,
+    "kycLevel": "Partial",
+    "occupation": "Trader",
+    "relationshipType": "Premium",
+    "riskRating": "Medium",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB71WEST33335199910250",
+      "GB44WEST47397581456816"
+    ]
+  },
+  {
+    "customerId": 3355,
+    "kycLevel": "Full",
+    "occupation": "Software Engineer",
+    "relationshipType": "Premium",
+    "riskRating": "Medium",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB58HSBC92620022939945",
+      "GB99NWBK43253689165714"
+    ]
+  },
+  {
+    "customerId": 5120,
+    "kycLevel": "Minimal",
+    "occupation": "Software Engineer",
+    "relationshipType": "Corporate",
+    "riskRating": "Medium",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB69NWBK96114176898501"
+    ]
+  },
+  {
+    "customerId": 6128,
+    "kycLevel": "Minimal",
+    "occupation": "Software Engineer",
+    "relationshipType": "Standard",
+    "riskRating": "High",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB90HSBC98186418598933",
+      "GB42WEST63609116224422"
+    ]
+  },
+  {
+    "customerId": 4030,
+    "kycLevel": "Full",
+    "occupation": "Consultant",
+    "relationshipType": "Corporate",
+    "riskRating": "Medium",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB90NWBK92609454479581",
+      "GB55BARC98927753199317"
+    ]
+  },
+  {
+    "customerId": 3311,
+    "kycLevel": "Partial",
+    "occupation": "Chartered Accountant",
+    "relationshipType": "Standard",
+    "riskRating": "High",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB75NWBK81332642315423",
+      "GB82HSBC45528061398836"
+    ]
+  },
+  {
+    "customerId": 9231,
+    "kycLevel": "Partial",
+    "occupation": "Chartered Accountant",
+    "relationshipType": "Premium",
+    "riskRating": "Medium",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB81HSBC97877770902197"
+    ]
+  },
+  {
+    "customerId": 9676,
+    "kycLevel": "Full",
+    "occupation": "Chartered Accountant",
+    "relationshipType": "Corporate",
+    "riskRating": "Medium",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB92NWBK59025365197476",
+      "GB94WEST38055562562155"
+    ]
+  },
+  {
+    "customerId": 8296,
+    "kycLevel": "Partial",
+    "occupation": "Freelancer",
+    "relationshipType": "Premium",
+    "riskRating": "Low",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB84BARC28281516418776",
+      "GB97NWBK21498619025399"
+    ]
+  },
+  {
+    "customerId": 4801,
+    "kycLevel": "Minimal",
+    "occupation": "Freelancer",
+    "relationshipType": "Standard",
+    "riskRating": "Low",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB18NWBK10200957726345",
+      "GB44WEST28222941597357"
+    ]
+  },
+  {
+    "customerId": 2251,
+    "kycLevel": "Minimal",
+    "occupation": "Chartered Accountant",
+    "relationshipType": "Corporate",
+    "riskRating": "High",
+    "segment": "Retail",
+    "linkedAccounts": [
+      "GB79HSBC36602983252567"
+    ]
+  },
+  {
+    "customerId": 5493,
+    "kycLevel": "Minimal",
+    "occupation": "Trader",
+    "relationshipType": "Standard",
+    "riskRating": "Low",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB77WEST74726599397829"
+    ]
+  },
+  {
+    "customerId": 8202,
+    "kycLevel": "Partial",
+    "occupation": "Business Owner",
+    "relationshipType": "Corporate",
+    "riskRating": "High",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB72BARC17781494370282",
+      "GB73BARC17186280280861"
+    ]
+  },
+  {
+    "customerId": 2909,
+    "kycLevel": "Full",
+    "occupation": "Freelancer",
+    "relationshipType": "Standard",
+    "riskRating": "Low",
+    "segment": "Corporate",
+    "linkedAccounts": [
+      "GB39WEST90233915381149",
+      "GB47HSBC24615480010309"
+    ]
+  },
+  {
+    "customerId": 9237,
+    "kycLevel": "Full",
+    "occupation": "Software Engineer",
+    "relationshipType": "Corporate",
+    "riskRating": "High",
+    "segment": "SME",
+    "linkedAccounts": [
+      "GB31HSBC39352063649085",
+      "GB55NWBK43375719308457"
+    ]
+  }
+]

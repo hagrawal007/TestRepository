@@ -1,0 +1,2207 @@
+[
+  {
+    "id": 1,
+    "customerId": 1625,
+    "avgNoOfMonthlyTransaction": 11,
+    "avgTransactionAmount": 1290.41,
+    "maxTransactionAmount": 8534.43,
+    "preferredChannels": [
+      "Branch",
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Airbnb"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 40,
+    "lastActivityTimeStamp": "2024-02-09T03:00:00Z"
+  },
+  {
+    "id": 2,
+    "customerId": 7186,
+    "avgNoOfMonthlyTransaction": 47,
+    "avgTransactionAmount": 2896.25,
+    "maxTransactionAmount": 8638.53,
+    "preferredChannels": [
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Flipkart",
+      "Uber"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 10,
+    "lastActivityTimeStamp": "2024-02-14T02:00:00Z"
+  },
+  {
+    "id": 3,
+    "customerId": 8055,
+    "avgNoOfMonthlyTransaction": 90,
+    "avgTransactionAmount": 826.05,
+    "maxTransactionAmount": 5567.93,
+    "preferredChannels": [
+      "UPI",
+      "OnlineBanking",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Airbnb"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 35,
+    "lastActivityTimeStamp": "2024-02-01T09:00:00Z"
+  },
+  {
+    "id": 4,
+    "customerId": 1205,
+    "avgNoOfMonthlyTransaction": 31,
+    "avgTransactionAmount": 3338.71,
+    "maxTransactionAmount": 19473.16,
+    "preferredChannels": [
+      "UPI",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Swiggy",
+      "Flipkart",
+      "Amazon"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 7,
+    "lastActivityTimeStamp": "2024-02-19T10:00:00Z"
+  },
+  {
+    "id": 5,
+    "customerId": 8977,
+    "avgNoOfMonthlyTransaction": 113,
+    "avgTransactionAmount": 3090.44,
+    "maxTransactionAmount": 9545.72,
+    "preferredChannels": [
+      "Branch",
+      "MobileBanking",
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Swiggy",
+      "Flipkart",
+      "Uber"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 34,
+    "lastActivityTimeStamp": "2024-02-27T02:00:00Z"
+  },
+  {
+    "id": 6,
+    "customerId": 2444,
+    "avgNoOfMonthlyTransaction": 54,
+    "avgTransactionAmount": 2420.72,
+    "maxTransactionAmount": 9723.15,
+    "preferredChannels": [
+      "Branch",
+      "MobileBanking",
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Swiggy"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 8,
+    "lastActivityTimeStamp": "2024-02-07T18:00:00Z"
+  },
+  {
+    "id": 7,
+    "customerId": 4823,
+    "avgNoOfMonthlyTransaction": 86,
+    "avgTransactionAmount": 1364.5,
+    "maxTransactionAmount": 6779.76,
+    "preferredChannels": [
+      "UPI",
+      "MobileBanking",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Airbnb",
+      "Uber"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 13,
+    "lastActivityTimeStamp": "2024-02-25T20:00:00Z"
+  },
+  {
+    "id": 8,
+    "customerId": 5455,
+    "avgNoOfMonthlyTransaction": 63,
+    "avgTransactionAmount": 1014.75,
+    "maxTransactionAmount": 3590.36,
+    "preferredChannels": [
+      "UPI",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Swiggy",
+      "Uber"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 27,
+    "lastActivityTimeStamp": "2024-02-12T21:00:00Z"
+  },
+  {
+    "id": 9,
+    "customerId": 7184,
+    "avgNoOfMonthlyTransaction": 95,
+    "avgTransactionAmount": 628.52,
+    "maxTransactionAmount": 2890.69,
+    "preferredChannels": [
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Airbnb"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 7,
+    "lastActivityTimeStamp": "2024-02-01T17:00:00Z"
+  },
+  {
+    "id": 10,
+    "customerId": 3684,
+    "avgNoOfMonthlyTransaction": 101,
+    "avgTransactionAmount": 2377.88,
+    "maxTransactionAmount": 10663.44,
+    "preferredChannels": [
+      "MobileBanking",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Zara"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 10,
+    "lastActivityTimeStamp": "2024-02-01T20:00:00Z"
+  },
+  {
+    "id": 11,
+    "customerId": 9806,
+    "avgNoOfMonthlyTransaction": 110,
+    "avgTransactionAmount": 3551.96,
+    "maxTransactionAmount": 8322.08,
+    "preferredChannels": [
+      "OnlineBanking",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Amazon",
+      "Zara"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 26,
+    "lastActivityTimeStamp": "2024-02-17T12:00:00Z"
+  },
+  {
+    "id": 12,
+    "customerId": 8080,
+    "avgNoOfMonthlyTransaction": 71,
+    "avgTransactionAmount": 742.4,
+    "maxTransactionAmount": 2227.8,
+    "preferredChannels": [
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Uber",
+      "Amazon"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 33,
+    "lastActivityTimeStamp": "2024-02-19T12:00:00Z"
+  },
+  {
+    "id": 13,
+    "customerId": 6322,
+    "avgNoOfMonthlyTransaction": 43,
+    "avgTransactionAmount": 1887.33,
+    "maxTransactionAmount": 12543.09,
+    "preferredChannels": [
+      "OnlineBanking",
+      "UPI",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Swiggy",
+      "Amazon"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 22,
+    "lastActivityTimeStamp": "2024-02-06T16:00:00Z"
+  },
+  {
+    "id": 14,
+    "customerId": 1704,
+    "avgNoOfMonthlyTransaction": 69,
+    "avgTransactionAmount": 1199.99,
+    "maxTransactionAmount": 8782.69,
+    "preferredChannels": [
+      "MobileBanking",
+      "UPI",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Amazon"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 19,
+    "lastActivityTimeStamp": "2024-02-09T12:00:00Z"
+  },
+  {
+    "id": 15,
+    "customerId": 3186,
+    "avgNoOfMonthlyTransaction": 15,
+    "avgTransactionAmount": 2520.38,
+    "maxTransactionAmount": 6307.11,
+    "preferredChannels": [
+      "OnlineBanking",
+      "UPI",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Uber",
+      "Amazon",
+      "Flipkart"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 30,
+    "lastActivityTimeStamp": "2024-02-18T17:00:00Z"
+  },
+  {
+    "id": 16,
+    "customerId": 1097,
+    "avgNoOfMonthlyTransaction": 33,
+    "avgTransactionAmount": 3409.26,
+    "maxTransactionAmount": 25739.07,
+    "preferredChannels": [
+      "UPI",
+      "OnlineBanking",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Flipkart"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 31,
+    "lastActivityTimeStamp": "2024-02-20T20:00:00Z"
+  },
+  {
+    "id": 17,
+    "customerId": 3960,
+    "avgNoOfMonthlyTransaction": 45,
+    "avgTransactionAmount": 1627.08,
+    "maxTransactionAmount": 10774.06,
+    "preferredChannels": [
+      "MobileBanking",
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Swiggy",
+      "Amazon",
+      "Zara"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 29,
+    "lastActivityTimeStamp": "2024-02-11T06:00:00Z"
+  },
+  {
+    "id": 18,
+    "customerId": 6279,
+    "avgNoOfMonthlyTransaction": 52,
+    "avgTransactionAmount": 555.89,
+    "maxTransactionAmount": 2098.7,
+    "preferredChannels": [
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Swiggy",
+      "Flipkart"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 11,
+    "lastActivityTimeStamp": "2024-02-09T16:00:00Z"
+  },
+  {
+    "id": 19,
+    "customerId": 8297,
+    "avgNoOfMonthlyTransaction": 64,
+    "avgTransactionAmount": 2422.06,
+    "maxTransactionAmount": 18840.59,
+    "preferredChannels": [
+      "UPI",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Flipkart",
+      "Amazon"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 8,
+    "lastActivityTimeStamp": "2024-02-11T07:00:00Z"
+  },
+  {
+    "id": 20,
+    "customerId": 3160,
+    "avgNoOfMonthlyTransaction": 28,
+    "avgTransactionAmount": 756.36,
+    "maxTransactionAmount": 3455.6,
+    "preferredChannels": [
+      "MobileBanking",
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Airbnb"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 7,
+    "lastActivityTimeStamp": "2024-02-16T23:00:00Z"
+  },
+  {
+    "id": 21,
+    "customerId": 1228,
+    "avgNoOfMonthlyTransaction": 64,
+    "avgTransactionAmount": 2165.23,
+    "maxTransactionAmount": 16142.34,
+    "preferredChannels": [
+      "UPI",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Airbnb"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 31,
+    "lastActivityTimeStamp": "2024-02-20T09:00:00Z"
+  },
+  {
+    "id": 22,
+    "customerId": 3699,
+    "avgNoOfMonthlyTransaction": 50,
+    "avgTransactionAmount": 1872.41,
+    "maxTransactionAmount": 10564.79,
+    "preferredChannels": [
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Swiggy",
+      "Zara",
+      "Airbnb"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 36,
+    "lastActivityTimeStamp": "2024-02-16T21:00:00Z"
+  },
+  {
+    "id": 23,
+    "customerId": 2691,
+    "avgNoOfMonthlyTransaction": 115,
+    "avgTransactionAmount": 3542.17,
+    "maxTransactionAmount": 11847.92,
+    "preferredChannels": [
+      "Branch",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Flipkart"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 33,
+    "lastActivityTimeStamp": "2024-02-17T02:00:00Z"
+  },
+  {
+    "id": 24,
+    "customerId": 9475,
+    "avgNoOfMonthlyTransaction": 19,
+    "avgTransactionAmount": 522.56,
+    "maxTransactionAmount": 2401.66,
+    "preferredChannels": [
+      "OnlineBanking",
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Airbnb"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 7,
+    "lastActivityTimeStamp": "2024-02-21T13:00:00Z"
+  },
+  {
+    "id": 25,
+    "customerId": 7753,
+    "avgNoOfMonthlyTransaction": 36,
+    "avgTransactionAmount": 3667.09,
+    "maxTransactionAmount": 8950.04,
+    "preferredChannels": [
+      "Branch",
+      "UPI",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Flipkart"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 23,
+    "lastActivityTimeStamp": "2024-02-01T00:00:00Z"
+  },
+  {
+    "id": 26,
+    "customerId": 4473,
+    "avgNoOfMonthlyTransaction": 28,
+    "avgTransactionAmount": 1425.48,
+    "maxTransactionAmount": 5267.56,
+    "preferredChannels": [
+      "MobileBanking",
+      "Branch",
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Zara"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 19,
+    "lastActivityTimeStamp": "2024-02-21T10:00:00Z"
+  },
+  {
+    "id": 27,
+    "customerId": 7391,
+    "avgNoOfMonthlyTransaction": 70,
+    "avgTransactionAmount": 2750.96,
+    "maxTransactionAmount": 12675.38,
+    "preferredChannels": [
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Zara"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 11,
+    "lastActivityTimeStamp": "2024-02-18T06:00:00Z"
+  },
+  {
+    "id": 28,
+    "customerId": 1285,
+    "avgNoOfMonthlyTransaction": 21,
+    "avgTransactionAmount": 751.42,
+    "maxTransactionAmount": 5679.86,
+    "preferredChannels": [
+      "Branch",
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Flipkart",
+      "Uber"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 37,
+    "lastActivityTimeStamp": "2024-02-12T17:00:00Z"
+  },
+  {
+    "id": 29,
+    "customerId": 2356,
+    "avgNoOfMonthlyTransaction": 111,
+    "avgTransactionAmount": 3575.2,
+    "maxTransactionAmount": 9185.19,
+    "preferredChannels": [
+      "OnlineBanking",
+      "UPI",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Flipkart",
+      "Airbnb"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 15,
+    "lastActivityTimeStamp": "2024-02-22T10:00:00Z"
+  },
+  {
+    "id": 30,
+    "customerId": 4589,
+    "avgNoOfMonthlyTransaction": 105,
+    "avgTransactionAmount": 3237.88,
+    "maxTransactionAmount": 12906.68,
+    "preferredChannels": [
+      "UPI",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Uber",
+      "Airbnb",
+      "Zara"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 34,
+    "lastActivityTimeStamp": "2024-02-04T04:00:00Z"
+  },
+  {
+    "id": 31,
+    "customerId": 4380,
+    "avgNoOfMonthlyTransaction": 94,
+    "avgTransactionAmount": 634.06,
+    "maxTransactionAmount": 3810.76,
+    "preferredChannels": [
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Zara",
+      "Uber"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 5,
+    "lastActivityTimeStamp": "2024-02-12T14:00:00Z"
+  },
+  {
+    "id": 32,
+    "customerId": 1997,
+    "avgNoOfMonthlyTransaction": 42,
+    "avgTransactionAmount": 1511.31,
+    "maxTransactionAmount": 6656.22,
+    "preferredChannels": [
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Amazon"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 13,
+    "lastActivityTimeStamp": "2024-02-26T07:00:00Z"
+  },
+  {
+    "id": 33,
+    "customerId": 9898,
+    "avgNoOfMonthlyTransaction": 76,
+    "avgTransactionAmount": 3232.71,
+    "maxTransactionAmount": 21691.25,
+    "preferredChannels": [
+      "UPI",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Zara",
+      "Flipkart"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 23,
+    "lastActivityTimeStamp": "2024-02-20T20:00:00Z"
+  },
+  {
+    "id": 34,
+    "customerId": 9296,
+    "avgNoOfMonthlyTransaction": 49,
+    "avgTransactionAmount": 1459.85,
+    "maxTransactionAmount": 10291.79,
+    "preferredChannels": [
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Zara"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 25,
+    "lastActivityTimeStamp": "2024-02-26T11:00:00Z"
+  },
+  {
+    "id": 35,
+    "customerId": 4255,
+    "avgNoOfMonthlyTransaction": 61,
+    "avgTransactionAmount": 3482.4,
+    "maxTransactionAmount": 22289.42,
+    "preferredChannels": [
+      "MobileBanking",
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Amazon"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 35,
+    "lastActivityTimeStamp": "2024-02-24T17:00:00Z"
+  },
+  {
+    "id": 36,
+    "customerId": 7345,
+    "avgNoOfMonthlyTransaction": 41,
+    "avgTransactionAmount": 2717.89,
+    "maxTransactionAmount": 14450.9,
+    "preferredChannels": [
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Zara"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 28,
+    "lastActivityTimeStamp": "2024-02-18T05:00:00Z"
+  },
+  {
+    "id": 37,
+    "customerId": 5431,
+    "avgNoOfMonthlyTransaction": 28,
+    "avgTransactionAmount": 673.01,
+    "maxTransactionAmount": 5383.73,
+    "preferredChannels": [
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Uber",
+      "Amazon",
+      "Swiggy"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 21,
+    "lastActivityTimeStamp": "2024-02-20T03:00:00Z"
+  },
+  {
+    "id": 38,
+    "customerId": 2955,
+    "avgNoOfMonthlyTransaction": 57,
+    "avgTransactionAmount": 643.23,
+    "maxTransactionAmount": 2289.83,
+    "preferredChannels": [
+      "MobileBanking",
+      "OnlineBanking",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Zara",
+      "Uber"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 12,
+    "lastActivityTimeStamp": "2024-02-26T17:00:00Z"
+  },
+  {
+    "id": 39,
+    "customerId": 6878,
+    "avgNoOfMonthlyTransaction": 84,
+    "avgTransactionAmount": 673.43,
+    "maxTransactionAmount": 4447.4,
+    "preferredChannels": [
+      "OnlineBanking",
+      "MobileBanking",
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Zara"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 5,
+    "lastActivityTimeStamp": "2024-02-27T12:00:00Z"
+  },
+  {
+    "id": 40,
+    "customerId": 9783,
+    "avgNoOfMonthlyTransaction": 108,
+    "avgTransactionAmount": 1843.67,
+    "maxTransactionAmount": 12569.5,
+    "preferredChannels": [
+      "UPI",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Uber",
+      "Swiggy"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 30,
+    "lastActivityTimeStamp": "2024-02-03T05:00:00Z"
+  },
+  {
+    "id": 41,
+    "customerId": 4080,
+    "avgNoOfMonthlyTransaction": 39,
+    "avgTransactionAmount": 2403.16,
+    "maxTransactionAmount": 14007.2,
+    "preferredChannels": [
+      "Branch",
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Uber",
+      "Zara",
+      "Amazon"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 17,
+    "lastActivityTimeStamp": "2024-02-18T22:00:00Z"
+  },
+  {
+    "id": 42,
+    "customerId": 3787,
+    "avgNoOfMonthlyTransaction": 59,
+    "avgTransactionAmount": 1084.28,
+    "maxTransactionAmount": 2461.1,
+    "preferredChannels": [
+      "MobileBanking",
+      "Branch",
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Swiggy"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 30,
+    "lastActivityTimeStamp": "2024-02-03T04:00:00Z"
+  },
+  {
+    "id": 43,
+    "customerId": 6982,
+    "avgNoOfMonthlyTransaction": 77,
+    "avgTransactionAmount": 2957.86,
+    "maxTransactionAmount": 21209.76,
+    "preferredChannels": [
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Uber"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 24,
+    "lastActivityTimeStamp": "2024-02-23T17:00:00Z"
+  },
+  {
+    "id": 44,
+    "customerId": 9606,
+    "avgNoOfMonthlyTransaction": 94,
+    "avgTransactionAmount": 415.57,
+    "maxTransactionAmount": 2514.72,
+    "preferredChannels": [
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Flipkart",
+      "Swiggy"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 16,
+    "lastActivityTimeStamp": "2024-02-05T20:00:00Z"
+  },
+  {
+    "id": 45,
+    "customerId": 2702,
+    "avgNoOfMonthlyTransaction": 87,
+    "avgTransactionAmount": 2734.05,
+    "maxTransactionAmount": 21450.17,
+    "preferredChannels": [
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Airbnb"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 24,
+    "lastActivityTimeStamp": "2024-02-22T21:00:00Z"
+  },
+  {
+    "id": 46,
+    "customerId": 4015,
+    "avgNoOfMonthlyTransaction": 51,
+    "avgTransactionAmount": 2187.39,
+    "maxTransactionAmount": 13637.82,
+    "preferredChannels": [
+      "MobileBanking",
+      "UPI",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Zara"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 40,
+    "lastActivityTimeStamp": "2024-02-10T13:00:00Z"
+  },
+  {
+    "id": 47,
+    "customerId": 7119,
+    "avgNoOfMonthlyTransaction": 66,
+    "avgTransactionAmount": 408.97,
+    "maxTransactionAmount": 1544.91,
+    "preferredChannels": [
+      "Branch",
+      "UPI",
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Uber"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 8,
+    "lastActivityTimeStamp": "2024-02-25T14:00:00Z"
+  },
+  {
+    "id": 48,
+    "customerId": 3903,
+    "avgNoOfMonthlyTransaction": 79,
+    "avgTransactionAmount": 658.27,
+    "maxTransactionAmount": 4485.03,
+    "preferredChannels": [
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Swiggy",
+      "Flipkart"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 37,
+    "lastActivityTimeStamp": "2024-02-25T13:00:00Z"
+  },
+  {
+    "id": 49,
+    "customerId": 4796,
+    "avgNoOfMonthlyTransaction": 91,
+    "avgTransactionAmount": 2937.42,
+    "maxTransactionAmount": 19331.83,
+    "preferredChannels": [
+      "UPI",
+      "OnlineBanking",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Amazon",
+      "Swiggy"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 35,
+    "lastActivityTimeStamp": "2024-02-16T16:00:00Z"
+  },
+  {
+    "id": 50,
+    "customerId": 9450,
+    "avgNoOfMonthlyTransaction": 27,
+    "avgTransactionAmount": 1170.53,
+    "maxTransactionAmount": 7459.52,
+    "preferredChannels": [
+      "OnlineBanking",
+      "UPI",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Airbnb"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 30,
+    "lastActivityTimeStamp": "2024-02-27T01:00:00Z"
+  },
+  {
+    "id": 51,
+    "customerId": 3992,
+    "avgNoOfMonthlyTransaction": 100,
+    "avgTransactionAmount": 3294.23,
+    "maxTransactionAmount": 21835.31,
+    "preferredChannels": [
+      "MobileBanking",
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Airbnb"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 37,
+    "lastActivityTimeStamp": "2024-02-08T16:00:00Z"
+  },
+  {
+    "id": 52,
+    "customerId": 7493,
+    "avgNoOfMonthlyTransaction": 86,
+    "avgTransactionAmount": 1923.44,
+    "maxTransactionAmount": 4618.82,
+    "preferredChannels": [
+      "MobileBanking",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Uber",
+      "Amazon"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 34,
+    "lastActivityTimeStamp": "2024-02-24T15:00:00Z"
+  },
+  {
+    "id": 53,
+    "customerId": 6248,
+    "avgNoOfMonthlyTransaction": 6,
+    "avgTransactionAmount": 713.11,
+    "maxTransactionAmount": 4479.87,
+    "preferredChannels": [
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Zara",
+      "Uber"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 13,
+    "lastActivityTimeStamp": "2024-02-12T11:00:00Z"
+  },
+  {
+    "id": 54,
+    "customerId": 8021,
+    "avgNoOfMonthlyTransaction": 88,
+    "avgTransactionAmount": 1960.5,
+    "maxTransactionAmount": 13516.01,
+    "preferredChannels": [
+      "MobileBanking",
+      "OnlineBanking",
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Swiggy",
+      "Airbnb"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 9,
+    "lastActivityTimeStamp": "2024-02-27T15:00:00Z"
+  },
+  {
+    "id": 55,
+    "customerId": 9472,
+    "avgNoOfMonthlyTransaction": 49,
+    "avgTransactionAmount": 1061.56,
+    "maxTransactionAmount": 2421.89,
+    "preferredChannels": [
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Airbnb",
+      "Uber"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 16,
+    "lastActivityTimeStamp": "2024-02-18T04:00:00Z"
+  },
+  {
+    "id": 56,
+    "customerId": 2916,
+    "avgNoOfMonthlyTransaction": 49,
+    "avgTransactionAmount": 1146.87,
+    "maxTransactionAmount": 7096.71,
+    "preferredChannels": [
+      "MobileBanking",
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Uber",
+      "Zara",
+      "Amazon"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 12,
+    "lastActivityTimeStamp": "2024-02-24T15:00:00Z"
+  },
+  {
+    "id": 57,
+    "customerId": 8348,
+    "avgNoOfMonthlyTransaction": 52,
+    "avgTransactionAmount": 947.17,
+    "maxTransactionAmount": 2362.64,
+    "preferredChannels": [
+      "UPI",
+      "OnlineBanking",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Uber",
+      "Airbnb",
+      "Amazon"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 30,
+    "lastActivityTimeStamp": "2024-02-03T13:00:00Z"
+  },
+  {
+    "id": 58,
+    "customerId": 2033,
+    "avgNoOfMonthlyTransaction": 53,
+    "avgTransactionAmount": 3382.87,
+    "maxTransactionAmount": 21614.98,
+    "preferredChannels": [
+      "OnlineBanking",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Airbnb"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 25,
+    "lastActivityTimeStamp": "2024-02-12T11:00:00Z"
+  },
+  {
+    "id": 59,
+    "customerId": 5703,
+    "avgNoOfMonthlyTransaction": 9,
+    "avgTransactionAmount": 3353.35,
+    "maxTransactionAmount": 22880.66,
+    "preferredChannels": [
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Zara",
+      "Uber"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 35,
+    "lastActivityTimeStamp": "2024-02-11T22:00:00Z"
+  },
+  {
+    "id": 60,
+    "customerId": 4631,
+    "avgNoOfMonthlyTransaction": 112,
+    "avgTransactionAmount": 876.16,
+    "maxTransactionAmount": 3488.04,
+    "preferredChannels": [
+      "OnlineBanking",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Amazon",
+      "Airbnb"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 33,
+    "lastActivityTimeStamp": "2024-02-23T15:00:00Z"
+  },
+  {
+    "id": 61,
+    "customerId": 2299,
+    "avgNoOfMonthlyTransaction": 64,
+    "avgTransactionAmount": 3287.73,
+    "maxTransactionAmount": 11895.15,
+    "preferredChannels": [
+      "UPI",
+      "OnlineBanking",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Swiggy",
+      "Zara"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 8,
+    "lastActivityTimeStamp": "2024-02-24T09:00:00Z"
+  },
+  {
+    "id": 62,
+    "customerId": 5468,
+    "avgNoOfMonthlyTransaction": 25,
+    "avgTransactionAmount": 2875.8,
+    "maxTransactionAmount": 19381.93,
+    "preferredChannels": [
+      "OnlineBanking",
+      "UPI",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Flipkart"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 10,
+    "lastActivityTimeStamp": "2024-02-15T21:00:00Z"
+  },
+  {
+    "id": 63,
+    "customerId": 3209,
+    "avgNoOfMonthlyTransaction": 79,
+    "avgTransactionAmount": 1726.64,
+    "maxTransactionAmount": 4107.79,
+    "preferredChannels": [
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Amazon"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 14,
+    "lastActivityTimeStamp": "2024-02-15T22:00:00Z"
+  },
+  {
+    "id": 64,
+    "customerId": 5861,
+    "avgNoOfMonthlyTransaction": 25,
+    "avgTransactionAmount": 1980.48,
+    "maxTransactionAmount": 11290.93,
+    "preferredChannels": [
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Swiggy",
+      "Flipkart"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 16,
+    "lastActivityTimeStamp": "2024-02-20T06:00:00Z"
+  },
+  {
+    "id": 65,
+    "customerId": 6337,
+    "avgNoOfMonthlyTransaction": 25,
+    "avgTransactionAmount": 3155.26,
+    "maxTransactionAmount": 18098.26,
+    "preferredChannels": [
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Uber",
+      "Amazon"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 10,
+    "lastActivityTimeStamp": "2024-02-26T05:00:00Z"
+  },
+  {
+    "id": 66,
+    "customerId": 9588,
+    "avgNoOfMonthlyTransaction": 27,
+    "avgTransactionAmount": 3677.32,
+    "maxTransactionAmount": 16955.26,
+    "preferredChannels": [
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Zara"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 24,
+    "lastActivityTimeStamp": "2024-02-04T17:00:00Z"
+  },
+  {
+    "id": 67,
+    "customerId": 7550,
+    "avgNoOfMonthlyTransaction": 26,
+    "avgTransactionAmount": 1967.09,
+    "maxTransactionAmount": 5443.09,
+    "preferredChannels": [
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Airbnb",
+      "Zara"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 14,
+    "lastActivityTimeStamp": "2024-02-12T23:00:00Z"
+  },
+  {
+    "id": 68,
+    "customerId": 9286,
+    "avgNoOfMonthlyTransaction": 29,
+    "avgTransactionAmount": 1146.66,
+    "maxTransactionAmount": 7412.06,
+    "preferredChannels": [
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Swiggy",
+      "Zara"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 36,
+    "lastActivityTimeStamp": "2024-02-26T14:00:00Z"
+  },
+  {
+    "id": 69,
+    "customerId": 1267,
+    "avgNoOfMonthlyTransaction": 119,
+    "avgTransactionAmount": 3055.97,
+    "maxTransactionAmount": 7843.68,
+    "preferredChannels": [
+      "UPI",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Swiggy",
+      "Flipkart"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 9,
+    "lastActivityTimeStamp": "2024-02-21T05:00:00Z"
+  },
+  {
+    "id": 70,
+    "customerId": 3481,
+    "avgNoOfMonthlyTransaction": 106,
+    "avgTransactionAmount": 1292.53,
+    "maxTransactionAmount": 6940.85,
+    "preferredChannels": [
+      "OnlineBanking",
+      "MobileBanking",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Swiggy"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 36,
+    "lastActivityTimeStamp": "2024-02-09T07:00:00Z"
+  },
+  {
+    "id": 71,
+    "customerId": 9921,
+    "avgNoOfMonthlyTransaction": 14,
+    "avgTransactionAmount": 986.4,
+    "maxTransactionAmount": 3885.61,
+    "preferredChannels": [
+      "MobileBanking",
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Amazon"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 13,
+    "lastActivityTimeStamp": "2024-02-03T13:00:00Z"
+  },
+  {
+    "id": 72,
+    "customerId": 2906,
+    "avgNoOfMonthlyTransaction": 61,
+    "avgTransactionAmount": 3305.67,
+    "maxTransactionAmount": 21130.47,
+    "preferredChannels": [
+      "UPI",
+      "OnlineBanking",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Uber",
+      "Zara",
+      "Amazon"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 21,
+    "lastActivityTimeStamp": "2024-02-28T09:00:00Z"
+  },
+  {
+    "id": 73,
+    "customerId": 6681,
+    "avgNoOfMonthlyTransaction": 39,
+    "avgTransactionAmount": 2424.41,
+    "maxTransactionAmount": 6190.99,
+    "preferredChannels": [
+      "UPI",
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Airbnb",
+      "Swiggy"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 26,
+    "lastActivityTimeStamp": "2024-02-01T20:00:00Z"
+  },
+  {
+    "id": 74,
+    "customerId": 9985,
+    "avgNoOfMonthlyTransaction": 31,
+    "avgTransactionAmount": 2968.17,
+    "maxTransactionAmount": 19396.62,
+    "preferredChannels": [
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Zara",
+      "Amazon"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 28,
+    "lastActivityTimeStamp": "2024-02-27T21:00:00Z"
+  },
+  {
+    "id": 75,
+    "customerId": 8091,
+    "avgNoOfMonthlyTransaction": 111,
+    "avgTransactionAmount": 3556.1,
+    "maxTransactionAmount": 23496.28,
+    "preferredChannels": [
+      "MobileBanking",
+      "Branch",
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Swiggy",
+      "Airbnb"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 27,
+    "lastActivityTimeStamp": "2024-02-18T22:00:00Z"
+  },
+  {
+    "id": 76,
+    "customerId": 8639,
+    "avgNoOfMonthlyTransaction": 61,
+    "avgTransactionAmount": 3282.1,
+    "maxTransactionAmount": 18607.17,
+    "preferredChannels": [
+      "UPI",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Uber"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 13,
+    "lastActivityTimeStamp": "2024-02-23T00:00:00Z"
+  },
+  {
+    "id": 77,
+    "customerId": 3608,
+    "avgNoOfMonthlyTransaction": 107,
+    "avgTransactionAmount": 1302.2,
+    "maxTransactionAmount": 6444.83,
+    "preferredChannels": [
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Amazon"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 40,
+    "lastActivityTimeStamp": "2024-02-22T20:00:00Z"
+  },
+  {
+    "id": 78,
+    "customerId": 6325,
+    "avgNoOfMonthlyTransaction": 65,
+    "avgTransactionAmount": 508.25,
+    "maxTransactionAmount": 2734.24,
+    "preferredChannels": [
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Flipkart"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 24,
+    "lastActivityTimeStamp": "2024-02-09T22:00:00Z"
+  },
+  {
+    "id": 79,
+    "customerId": 8492,
+    "avgNoOfMonthlyTransaction": 119,
+    "avgTransactionAmount": 641.44,
+    "maxTransactionAmount": 2693.16,
+    "preferredChannels": [
+      "UPI",
+      "Branch",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Airbnb"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 32,
+    "lastActivityTimeStamp": "2024-02-14T08:00:00Z"
+  },
+  {
+    "id": 80,
+    "customerId": 7118,
+    "avgNoOfMonthlyTransaction": 34,
+    "avgTransactionAmount": 680.86,
+    "maxTransactionAmount": 3381.11,
+    "preferredChannels": [
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Uber",
+      "Airbnb"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 37,
+    "lastActivityTimeStamp": "2024-02-28T19:00:00Z"
+  },
+  {
+    "id": 81,
+    "customerId": 4141,
+    "avgNoOfMonthlyTransaction": 73,
+    "avgTransactionAmount": 2165.3,
+    "maxTransactionAmount": 11314.06,
+    "preferredChannels": [
+      "UPI",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Swiggy",
+      "Airbnb"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 17,
+    "lastActivityTimeStamp": "2024-02-16T09:00:00Z"
+  },
+  {
+    "id": 82,
+    "customerId": 5903,
+    "avgNoOfMonthlyTransaction": 9,
+    "avgTransactionAmount": 2755.64,
+    "maxTransactionAmount": 14054.82,
+    "preferredChannels": [
+      "UPI",
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Swiggy",
+      "Flipkart"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 13,
+    "lastActivityTimeStamp": "2024-02-07T20:00:00Z"
+  },
+  {
+    "id": 83,
+    "customerId": 6976,
+    "avgNoOfMonthlyTransaction": 36,
+    "avgTransactionAmount": 864.73,
+    "maxTransactionAmount": 6657.36,
+    "preferredChannels": [
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Uber"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 7,
+    "lastActivityTimeStamp": "2024-02-21T07:00:00Z"
+  },
+  {
+    "id": 84,
+    "customerId": 6555,
+    "avgNoOfMonthlyTransaction": 87,
+    "avgTransactionAmount": 2605.5,
+    "maxTransactionAmount": 20147.78,
+    "preferredChannels": [
+      "MobileBanking",
+      "UPI",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Flipkart",
+      "Zara"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 24,
+    "lastActivityTimeStamp": "2024-02-25T23:00:00Z"
+  },
+  {
+    "id": 85,
+    "customerId": 5168,
+    "avgNoOfMonthlyTransaction": 30,
+    "avgTransactionAmount": 2478.72,
+    "maxTransactionAmount": 9146.86,
+    "preferredChannels": [
+      "UPI",
+      "OnlineBanking",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Airbnb"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 9,
+    "lastActivityTimeStamp": "2024-02-16T18:00:00Z"
+  },
+  {
+    "id": 86,
+    "customerId": 6908,
+    "avgNoOfMonthlyTransaction": 87,
+    "avgTransactionAmount": 791.64,
+    "maxTransactionAmount": 4622.02,
+    "preferredChannels": [
+      "UPI",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Amazon"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 18,
+    "lastActivityTimeStamp": "2024-02-24T01:00:00Z"
+  },
+  {
+    "id": 87,
+    "customerId": 5055,
+    "avgNoOfMonthlyTransaction": 88,
+    "avgTransactionAmount": 1144.64,
+    "maxTransactionAmount": 8281.69,
+    "preferredChannels": [
+      "OnlineBanking",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Zara",
+      "Uber"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 19,
+    "lastActivityTimeStamp": "2024-02-05T08:00:00Z"
+  },
+  {
+    "id": 88,
+    "customerId": 6529,
+    "avgNoOfMonthlyTransaction": 90,
+    "avgTransactionAmount": 892.11,
+    "maxTransactionAmount": 2071.8,
+    "preferredChannels": [
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Swiggy",
+      "Uber",
+      "Amazon"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 29,
+    "lastActivityTimeStamp": "2024-02-16T10:00:00Z"
+  },
+  {
+    "id": 89,
+    "customerId": 4693,
+    "avgNoOfMonthlyTransaction": 93,
+    "avgTransactionAmount": 970.17,
+    "maxTransactionAmount": 5293.79,
+    "preferredChannels": [
+      "MobileBanking",
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Amazon",
+      "Flipkart"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 12,
+    "lastActivityTimeStamp": "2024-02-06T10:00:00Z"
+  },
+  {
+    "id": 90,
+    "customerId": 7576,
+    "avgNoOfMonthlyTransaction": 7,
+    "avgTransactionAmount": 2141.49,
+    "maxTransactionAmount": 12312.96,
+    "preferredChannels": [
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Amazon"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 17,
+    "lastActivityTimeStamp": "2024-02-23T01:00:00Z"
+  },
+  {
+    "id": 91,
+    "customerId": 1377,
+    "avgNoOfMonthlyTransaction": 117,
+    "avgTransactionAmount": 1245.39,
+    "maxTransactionAmount": 3908.5,
+    "preferredChannels": [
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Amazon"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 13,
+    "lastActivityTimeStamp": "2024-02-08T14:00:00Z"
+  },
+  {
+    "id": 92,
+    "customerId": 4897,
+    "avgNoOfMonthlyTransaction": 93,
+    "avgTransactionAmount": 909.68,
+    "maxTransactionAmount": 7024.19,
+    "preferredChannels": [
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Uber"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 27,
+    "lastActivityTimeStamp": "2024-02-24T15:00:00Z"
+  },
+  {
+    "id": 93,
+    "customerId": 9739,
+    "avgNoOfMonthlyTransaction": 113,
+    "avgTransactionAmount": 3519.32,
+    "maxTransactionAmount": 25529.35,
+    "preferredChannels": [
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Airbnb"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 10,
+    "lastActivityTimeStamp": "2024-02-05T14:00:00Z"
+  },
+  {
+    "id": 94,
+    "customerId": 4967,
+    "avgNoOfMonthlyTransaction": 116,
+    "avgTransactionAmount": 3890.68,
+    "maxTransactionAmount": 25685.7,
+    "preferredChannels": [
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Airbnb",
+      "Uber"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 37,
+    "lastActivityTimeStamp": "2024-02-10T03:00:00Z"
+  },
+  {
+    "id": 95,
+    "customerId": 5581,
+    "avgNoOfMonthlyTransaction": 44,
+    "avgTransactionAmount": 352.21,
+    "maxTransactionAmount": 838.53,
+    "preferredChannels": [
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Airbnb"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 18,
+    "lastActivityTimeStamp": "2024-02-24T22:00:00Z"
+  },
+  {
+    "id": 96,
+    "customerId": 2768,
+    "avgNoOfMonthlyTransaction": 76,
+    "avgTransactionAmount": 1916.4,
+    "maxTransactionAmount": 4277.98,
+    "preferredChannels": [
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Swiggy",
+      "Uber"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 18,
+    "lastActivityTimeStamp": "2024-02-26T01:00:00Z"
+  },
+  {
+    "id": 97,
+    "customerId": 3684,
+    "avgNoOfMonthlyTransaction": 49,
+    "avgTransactionAmount": 2992.44,
+    "maxTransactionAmount": 8725.81,
+    "preferredChannels": [
+      "Branch",
+      "OnlineBanking",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Uber",
+      "Airbnb",
+      "Amazon"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 9,
+    "lastActivityTimeStamp": "2024-02-23T18:00:00Z"
+  },
+  {
+    "id": 98,
+    "customerId": 6547,
+    "avgNoOfMonthlyTransaction": 38,
+    "avgTransactionAmount": 1820.67,
+    "maxTransactionAmount": 11604.61,
+    "preferredChannels": [
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Zara",
+      "Amazon"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 40,
+    "lastActivityTimeStamp": "2024-02-22T14:00:00Z"
+  },
+  {
+    "id": 99,
+    "customerId": 5732,
+    "avgNoOfMonthlyTransaction": 120,
+    "avgTransactionAmount": 1503.35,
+    "maxTransactionAmount": 7498.9,
+    "preferredChannels": [
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Flipkart"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 9,
+    "lastActivityTimeStamp": "2024-02-21T18:00:00Z"
+  },
+  {
+    "id": 100,
+    "customerId": 4844,
+    "avgNoOfMonthlyTransaction": 16,
+    "avgTransactionAmount": 2043.42,
+    "maxTransactionAmount": 14700.72,
+    "preferredChannels": [
+      "UPI",
+      "OnlineBanking",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Swiggy",
+      "Uber"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 38,
+    "lastActivityTimeStamp": "2024-02-15T12:00:00Z"
+  },
+  {
+    "id": 101,
+    "customerId": 3273,
+    "avgNoOfMonthlyTransaction": 18,
+    "avgTransactionAmount": 1925.25,
+    "maxTransactionAmount": 5322.12,
+    "preferredChannels": [
+      "UPI",
+      "Branch",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Airbnb",
+      "Uber"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 23,
+    "lastActivityTimeStamp": "2024-02-16T13:00:00Z"
+  },
+  {
+    "id": 102,
+    "customerId": 2294,
+    "avgNoOfMonthlyTransaction": 48,
+    "avgTransactionAmount": 806.52,
+    "maxTransactionAmount": 6101.68,
+    "preferredChannels": [
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Flipkart",
+      "Uber"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 19,
+    "lastActivityTimeStamp": "2024-02-14T09:00:00Z"
+  },
+  {
+    "id": 103,
+    "customerId": 4439,
+    "avgNoOfMonthlyTransaction": 42,
+    "avgTransactionAmount": 2008.36,
+    "maxTransactionAmount": 10541.22,
+    "preferredChannels": [
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Amazon",
+      "Airbnb"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 10,
+    "lastActivityTimeStamp": "2024-02-15T02:00:00Z"
+  },
+  {
+    "id": 104,
+    "customerId": 3601,
+    "avgNoOfMonthlyTransaction": 56,
+    "avgTransactionAmount": 1619.02,
+    "maxTransactionAmount": 5524.67,
+    "preferredChannels": [
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Zara"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 32,
+    "lastActivityTimeStamp": "2024-02-24T14:00:00Z"
+  },
+  {
+    "id": 105,
+    "customerId": 4867,
+    "avgNoOfMonthlyTransaction": 26,
+    "avgTransactionAmount": 3311.17,
+    "maxTransactionAmount": 12825.09,
+    "preferredChannels": [
+      "OnlineBanking",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Airbnb"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 32,
+    "lastActivityTimeStamp": "2024-02-25T01:00:00Z"
+  },
+  {
+    "id": 106,
+    "customerId": 4168,
+    "avgNoOfMonthlyTransaction": 119,
+    "avgTransactionAmount": 3419.75,
+    "maxTransactionAmount": 20523.8,
+    "preferredChannels": [
+      "OnlineBanking",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Uber",
+      "Zara"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 40,
+    "lastActivityTimeStamp": "2024-02-19T02:00:00Z"
+  },
+  {
+    "id": 107,
+    "customerId": 1970,
+    "avgNoOfMonthlyTransaction": 114,
+    "avgTransactionAmount": 2327.1,
+    "maxTransactionAmount": 12113.04,
+    "preferredChannels": [
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Swiggy",
+      "Amazon"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 31,
+    "lastActivityTimeStamp": "2024-02-17T00:00:00Z"
+  },
+  {
+    "id": 108,
+    "customerId": 5223,
+    "avgNoOfMonthlyTransaction": 116,
+    "avgTransactionAmount": 2101.0,
+    "maxTransactionAmount": 4514.27,
+    "preferredChannels": [
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Swiggy",
+      "Uber"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 16,
+    "lastActivityTimeStamp": "2024-02-23T19:00:00Z"
+  },
+  {
+    "id": 109,
+    "customerId": 1309,
+    "avgNoOfMonthlyTransaction": 27,
+    "avgTransactionAmount": 1040.21,
+    "maxTransactionAmount": 3904.41,
+    "preferredChannels": [
+      "OnlineBanking",
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Swiggy",
+      "Flipkart",
+      "Amazon"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 12,
+    "lastActivityTimeStamp": "2024-02-06T15:00:00Z"
+  },
+  {
+    "id": 110,
+    "customerId": 2239,
+    "avgNoOfMonthlyTransaction": 103,
+    "avgTransactionAmount": 1135.2,
+    "maxTransactionAmount": 6253.33,
+    "preferredChannels": [
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Amazon"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 31,
+    "lastActivityTimeStamp": "2024-02-23T10:00:00Z"
+  },
+  {
+    "id": 111,
+    "customerId": 8829,
+    "avgNoOfMonthlyTransaction": 9,
+    "avgTransactionAmount": 3129.55,
+    "maxTransactionAmount": 20442.9,
+    "preferredChannels": [
+      "OnlineBanking",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Uber",
+      "Swiggy",
+      "Flipkart"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 11,
+    "lastActivityTimeStamp": "2024-02-27T19:00:00Z"
+  },
+  {
+    "id": 112,
+    "customerId": 9698,
+    "avgNoOfMonthlyTransaction": 88,
+    "avgTransactionAmount": 1003.81,
+    "maxTransactionAmount": 2273.01,
+    "preferredChannels": [
+      "OnlineBanking",
+      "MobileBanking",
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Zara",
+      "Uber"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 24,
+    "lastActivityTimeStamp": "2024-02-17T20:00:00Z"
+  },
+  {
+    "id": 113,
+    "customerId": 7422,
+    "avgNoOfMonthlyTransaction": 76,
+    "avgTransactionAmount": 1264.17,
+    "maxTransactionAmount": 7578.16,
+    "preferredChannels": [
+      "Branch",
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Flipkart",
+      "Airbnb",
+      "Swiggy"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 16,
+    "lastActivityTimeStamp": "2024-02-01T10:00:00Z"
+  },
+  {
+    "id": 114,
+    "customerId": 1881,
+    "avgNoOfMonthlyTransaction": 16,
+    "avgTransactionAmount": 3693.44,
+    "maxTransactionAmount": 22277.73,
+    "preferredChannels": [
+      "MobileBanking",
+      "OnlineBanking",
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Amazon"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 28,
+    "lastActivityTimeStamp": "2024-02-12T06:00:00Z"
+  },
+  {
+    "id": 115,
+    "customerId": 3763,
+    "avgNoOfMonthlyTransaction": 80,
+    "avgTransactionAmount": 3078.86,
+    "maxTransactionAmount": 16706.83,
+    "preferredChannels": [
+      "UPI",
+      "Branch",
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Airbnb",
+      "Flipkart"
+    ],
+    "transactionPattern": "Business Hours",
+    "loginFrequency": 9,
+    "lastActivityTimeStamp": "2024-02-10T17:00:00Z"
+  },
+  {
+    "id": 116,
+    "customerId": 9864,
+    "avgNoOfMonthlyTransaction": 74,
+    "avgTransactionAmount": 521.51,
+    "maxTransactionAmount": 3324.54,
+    "preferredChannels": [
+      "MobileBanking"
+    ],
+    "frequentMerchants": [
+      "Swiggy",
+      "Uber",
+      "Zara"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 21,
+    "lastActivityTimeStamp": "2024-02-09T02:00:00Z"
+  },
+  {
+    "id": 117,
+    "customerId": 4119,
+    "avgNoOfMonthlyTransaction": 118,
+    "avgTransactionAmount": 1542.72,
+    "maxTransactionAmount": 6930.73,
+    "preferredChannels": [
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Zara",
+      "Uber",
+      "Airbnb"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 31,
+    "lastActivityTimeStamp": "2024-02-20T05:00:00Z"
+  },
+  {
+    "id": 118,
+    "customerId": 1516,
+    "avgNoOfMonthlyTransaction": 84,
+    "avgTransactionAmount": 2147.83,
+    "maxTransactionAmount": 16968.81,
+    "preferredChannels": [
+      "UPI"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Amazon"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 27,
+    "lastActivityTimeStamp": "2024-02-10T16:00:00Z"
+  },
+  {
+    "id": 119,
+    "customerId": 1767,
+    "avgNoOfMonthlyTransaction": 52,
+    "avgTransactionAmount": 1496.21,
+    "maxTransactionAmount": 7929.5,
+    "preferredChannels": [
+      "OnlineBanking"
+    ],
+    "frequentMerchants": [
+      "Amazon",
+      "Zara",
+      "Airbnb"
+    ],
+    "transactionPattern": "Travel Heavy",
+    "loginFrequency": 20,
+    "lastActivityTimeStamp": "2024-02-12T19:00:00Z"
+  },
+  {
+    "id": 120,
+    "customerId": 4682,
+    "avgNoOfMonthlyTransaction": 65,
+    "avgTransactionAmount": 1356.67,
+    "maxTransactionAmount": 7111.81,
+    "preferredChannels": [
+      "UPI",
+      "Branch"
+    ],
+    "frequentMerchants": [
+      "Airbnb",
+      "Flipkart",
+      "Amazon"
+    ],
+    "transactionPattern": "Weekend Heavy",
+    "loginFrequency": 36,
+    "lastActivityTimeStamp": "2024-02-28T17:00:00Z"
+  }
+]
