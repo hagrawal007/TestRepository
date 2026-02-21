@@ -8,7 +8,7 @@
     "currency": "USD",
     "channel": "Branch",
     "timestamp": "2024-02-26T21:05:00Z",
-    "sourceAccount": "GB92BARC77690435233332",
+    "sourceAccount": "GB41NWBK54507499248207",
     "additionalData": {
       "merchantName": "Uber",
       "merchantCategory": "Retail"
@@ -30,7 +30,7 @@
     "currency": "GBP",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-26T07:53:00Z",
-    "sourceAccount": "GB33HSBC27292721605401",
+    "sourceAccount": "GB34WEST33187738266505",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -52,7 +52,7 @@
     "currency": "GBP",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-22T20:31:00Z",
-    "sourceAccount": "GB61HSBC99139877310729",
+    "sourceAccount": "GB81NWBK35047082625489",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
@@ -74,7 +74,7 @@
     "currency": "GBP",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-04T13:58:00Z",
-    "sourceAccount": "GB12HSBC25473242989150",
+    "sourceAccount": "GB54BARC59895548935178",
     "additionalData": {
       "merchantName": "Airbnb",
       "merchantCategory": "Retail"
@@ -96,7 +96,7 @@
     "currency": "USD",
     "channel": "MobileBanking",
     "timestamp": "2024-02-04T01:26:00Z",
-    "sourceAccount": "GB45WEST64944651616824",
+    "sourceAccount": "GB93WEST48932451211571",
     "additionalData": {
       "merchantName": "Airbnb",
       "merchantCategory": "Retail"
@@ -118,7 +118,7 @@
     "currency": "GBP",
     "channel": "UPI",
     "timestamp": "2024-02-15T03:41:00Z",
-    "sourceAccount": "GB50NWBK55530264299645",
+    "sourceAccount": "GB71BARC42867389266435",
     "additionalData": {
       "merchantName": "Uber",
       "merchantCategory": "Retail"
@@ -140,7 +140,7 @@
     "currency": "EUR",
     "channel": "Branch",
     "timestamp": "2024-02-17T03:49:00Z",
-    "sourceAccount": "GB87NWBK46969514515887",
+    "sourceAccount": "GB46WEST33981598191136",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -162,7 +162,7 @@
     "currency": "EUR",
     "channel": "Branch",
     "timestamp": "2024-02-15T16:22:00Z",
-    "sourceAccount": "GB55NWBK10820982253282",
+    "sourceAccount": "GB97BARC93510936017732",
     "additionalData": {
       "merchantName": "Tesco",
       "merchantCategory": "Retail"
@@ -184,7 +184,7 @@
     "currency": "EUR",
     "channel": "MobileBanking",
     "timestamp": "2024-02-12T08:17:00Z",
-    "sourceAccount": "GB58WEST37874763501167",
+    "sourceAccount": "GB12HSBC54325126574293",
     "additionalData": {
       "merchantName": "Tesco",
       "merchantCategory": "Retail"
@@ -206,7 +206,7 @@
     "currency": "EUR",
     "channel": "Branch",
     "timestamp": "2024-02-08T21:43:00Z",
-    "sourceAccount": "GB75WEST86482453017872",
+    "sourceAccount": "GB98WEST42341758761131",
     "additionalData": {
       "merchantName": "Uber",
       "merchantCategory": "Retail"
@@ -228,7 +228,7 @@
     "currency": "USD",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-20T03:34:00Z",
-    "sourceAccount": "GB27HSBC59154288388020",
+    "sourceAccount": "GB31WEST40197329200848",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -250,7 +250,7 @@
     "currency": "EUR",
     "channel": "Branch",
     "timestamp": "2024-02-05T01:48:00Z",
-    "sourceAccount": "GB65BARC17444629741496",
+    "sourceAccount": "GB89HSBC59826191815601",
     "additionalData": {
       "merchantName": "Tesco",
       "merchantCategory": "Retail"
@@ -272,7 +272,7 @@
     "currency": "EUR",
     "channel": "UPI",
     "timestamp": "2024-02-07T23:55:00Z",
-    "sourceAccount": "GB27WEST27163126415643",
+    "sourceAccount": "GB56BARC93115746878971",
     "additionalData": {
       "merchantName": "Uber",
       "merchantCategory": "Retail"
@@ -294,7 +294,7 @@
     "currency": "EUR",
     "channel": "MobileBanking",
     "timestamp": "2024-02-24T17:27:00Z",
-    "sourceAccount": "GB40NWBK36892762155796",
+    "sourceAccount": "GB34BARC52431883659622",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -316,7 +316,7 @@
     "currency": "USD",
     "channel": "MobileBanking",
     "timestamp": "2024-02-05T21:28:00Z",
-    "sourceAccount": "GB76NWBK62359719751479",
+    "sourceAccount": "GB75BARC23123342245546",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
@@ -338,7 +338,7 @@
     "currency": "EUR",
     "channel": "Branch",
     "timestamp": "2024-02-14T00:57:00Z",
-    "sourceAccount": "GB70NWBK77776071913580",
+    "sourceAccount": "GB31BARC29875199422146",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
@@ -360,7 +360,7 @@
     "currency": "GBP",
     "channel": "UPI",
     "timestamp": "2024-02-06T18:11:00Z",
-    "sourceAccount": "GB37BARC49644043185696",
+    "sourceAccount": "GB64WEST75308766208286",
     "additionalData": {
       "merchantName": "Amazon",
       "merchantCategory": "Retail"
@@ -382,7 +382,7 @@
     "currency": "USD",
     "channel": "Branch",
     "timestamp": "2024-02-10T09:14:00Z",
-    "sourceAccount": "GB87BARC71911046282547",
+    "sourceAccount": "GB12BARC44263276648520",
     "additionalData": {
       "merchantName": "Tesco",
       "merchantCategory": "Retail"
@@ -404,7 +404,7 @@
     "currency": "USD",
     "channel": "UPI",
     "timestamp": "2024-02-11T23:41:00Z",
-    "sourceAccount": "GB81BARC48692468498079",
+    "sourceAccount": "GB68WEST21765410214708",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -426,7 +426,7 @@
     "currency": "USD",
     "channel": "MobileBanking",
     "timestamp": "2024-02-15T19:32:00Z",
-    "sourceAccount": "GB48WEST59807336760125",
+    "sourceAccount": "GB40NWBK75946326079838",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -448,7 +448,7 @@
     "currency": "GBP",
     "channel": "Branch",
     "timestamp": "2024-02-20T14:52:00Z",
-    "sourceAccount": "GB52BARC39246481898373",
+    "sourceAccount": "GB43NWBK49666034785827",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -470,7 +470,7 @@
     "currency": "USD",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-18T02:13:00Z",
-    "sourceAccount": "GB94WEST91709068958551",
+    "sourceAccount": "GB48WEST83791493352797",
     "additionalData": {
       "merchantName": "Uber",
       "merchantCategory": "Retail"
@@ -492,7 +492,7 @@
     "currency": "USD",
     "channel": "MobileBanking",
     "timestamp": "2024-02-25T00:22:00Z",
-    "sourceAccount": "GB33NWBK60601571388398",
+    "sourceAccount": "GB98NWBK98929582997117",
     "additionalData": {
       "merchantName": "Uber",
       "merchantCategory": "Retail"
@@ -514,7 +514,7 @@
     "currency": "USD",
     "channel": "Branch",
     "timestamp": "2024-02-17T18:25:00Z",
-    "sourceAccount": "GB30BARC53216080877902",
+    "sourceAccount": "GB63BARC75376565785677",
     "additionalData": {
       "merchantName": "Tesco",
       "merchantCategory": "Retail"
@@ -536,7 +536,7 @@
     "currency": "EUR",
     "channel": "Branch",
     "timestamp": "2024-02-06T22:53:00Z",
-    "sourceAccount": "GB18BARC56820374620480",
+    "sourceAccount": "GB49HSBC33660667594824",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
@@ -558,7 +558,7 @@
     "currency": "USD",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-25T21:38:00Z",
-    "sourceAccount": "GB50BARC90540631236357",
+    "sourceAccount": "GB65WEST32185611359213",
     "additionalData": {
       "merchantName": "Airbnb",
       "merchantCategory": "Retail"
@@ -580,7 +580,7 @@
     "currency": "GBP",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-17T00:19:00Z",
-    "sourceAccount": "GB37BARC27284617483642",
+    "sourceAccount": "GB10WEST66897774457784",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -602,7 +602,7 @@
     "currency": "GBP",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-07T05:06:00Z",
-    "sourceAccount": "GB49HSBC81177110753151",
+    "sourceAccount": "GB17BARC50321963902423",
     "additionalData": {
       "merchantName": "Amazon",
       "merchantCategory": "Retail"
@@ -624,7 +624,7 @@
     "currency": "GBP",
     "channel": "UPI",
     "timestamp": "2024-02-06T19:00:00Z",
-    "sourceAccount": "GB36BARC22122169556287",
+    "sourceAccount": "GB96NWBK20415419527185",
     "additionalData": {
       "merchantName": "Airbnb",
       "merchantCategory": "Retail"
@@ -646,7 +646,7 @@
     "currency": "GBP",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-09T19:06:00Z",
-    "sourceAccount": "GB59NWBK16790963280792",
+    "sourceAccount": "GB31HSBC66254881182035",
     "additionalData": {
       "merchantName": "Uber",
       "merchantCategory": "Retail"
@@ -668,7 +668,7 @@
     "currency": "GBP",
     "channel": "MobileBanking",
     "timestamp": "2024-02-05T16:19:00Z",
-    "sourceAccount": "GB19NWBK29134461026070",
+    "sourceAccount": "GB41WEST69269828272833",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -690,7 +690,7 @@
     "currency": "GBP",
     "channel": "UPI",
     "timestamp": "2024-02-24T21:25:00Z",
-    "sourceAccount": "GB36BARC22057916516368",
+    "sourceAccount": "GB82BARC98662530574802",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
@@ -712,7 +712,7 @@
     "currency": "USD",
     "channel": "UPI",
     "timestamp": "2024-02-20T15:19:00Z",
-    "sourceAccount": "GB99BARC76277096305259",
+    "sourceAccount": "GB29HSBC58593769226617",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -734,7 +734,7 @@
     "currency": "USD",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-10T15:04:00Z",
-    "sourceAccount": "GB96WEST10811347567095",
+    "sourceAccount": "GB37WEST84373662944361",
     "additionalData": {
       "merchantName": "Uber",
       "merchantCategory": "Retail"
@@ -756,7 +756,7 @@
     "currency": "EUR",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-07T17:31:00Z",
-    "sourceAccount": "GB92BARC47395123290736",
+    "sourceAccount": "GB91BARC29827129873263",
     "additionalData": {
       "merchantName": "Airbnb",
       "merchantCategory": "Retail"
@@ -778,7 +778,7 @@
     "currency": "EUR",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-16T23:32:00Z",
-    "sourceAccount": "GB95WEST29307265640144",
+    "sourceAccount": "GB86WEST93556152611578",
     "additionalData": {
       "merchantName": "Amazon",
       "merchantCategory": "Retail"
@@ -800,7 +800,7 @@
     "currency": "USD",
     "channel": "Branch",
     "timestamp": "2024-02-28T03:04:00Z",
-    "sourceAccount": "GB58HSBC59930034618167",
+    "sourceAccount": "GB28HSBC91291842514621",
     "additionalData": {
       "merchantName": "Amazon",
       "merchantCategory": "Retail"
@@ -822,7 +822,7 @@
     "currency": "USD",
     "channel": "MobileBanking",
     "timestamp": "2024-02-21T13:33:00Z",
-    "sourceAccount": "GB12NWBK33081329601906",
+    "sourceAccount": "GB47BARC95529257808831",
     "additionalData": {
       "merchantName": "Uber",
       "merchantCategory": "Retail"
@@ -844,7 +844,7 @@
     "currency": "EUR",
     "channel": "MobileBanking",
     "timestamp": "2024-02-17T05:52:00Z",
-    "sourceAccount": "GB49NWBK97373270059203",
+    "sourceAccount": "GB57NWBK89401283977789",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -866,7 +866,7 @@
     "currency": "GBP",
     "channel": "MobileBanking",
     "timestamp": "2024-02-22T10:46:00Z",
-    "sourceAccount": "GB49BARC41220147432862",
+    "sourceAccount": "GB51BARC17575499562273",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -888,7 +888,7 @@
     "currency": "EUR",
     "channel": "Branch",
     "timestamp": "2024-02-02T08:42:00Z",
-    "sourceAccount": "GB22WEST18904755462909",
+    "sourceAccount": "GB80HSBC96648681328503",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -910,7 +910,7 @@
     "currency": "GBP",
     "channel": "MobileBanking",
     "timestamp": "2024-02-11T13:47:00Z",
-    "sourceAccount": "GB71BARC46015172772225",
+    "sourceAccount": "GB54HSBC72488034710660",
     "additionalData": {
       "merchantName": "Amazon",
       "merchantCategory": "Retail"
@@ -932,7 +932,7 @@
     "currency": "USD",
     "channel": "MobileBanking",
     "timestamp": "2024-02-03T09:19:00Z",
-    "sourceAccount": "GB39BARC13206341035371",
+    "sourceAccount": "GB77BARC33853789803047",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
@@ -954,7 +954,7 @@
     "currency": "EUR",
     "channel": "UPI",
     "timestamp": "2024-02-12T22:25:00Z",
-    "sourceAccount": "GB46NWBK17690227410804",
+    "sourceAccount": "GB83WEST25384169123598",
     "additionalData": {
       "merchantName": "Amazon",
       "merchantCategory": "Retail"
@@ -976,7 +976,7 @@
     "currency": "GBP",
     "channel": "UPI",
     "timestamp": "2024-02-17T12:46:00Z",
-    "sourceAccount": "GB65BARC78053060448665",
+    "sourceAccount": "GB37BARC27807032966098",
     "additionalData": {
       "merchantName": "Airbnb",
       "merchantCategory": "Retail"
@@ -998,7 +998,7 @@
     "currency": "GBP",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-05T16:00:00Z",
-    "sourceAccount": "GB79HSBC42509889843108",
+    "sourceAccount": "GB95NWBK17306374313123",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -1020,7 +1020,7 @@
     "currency": "USD",
     "channel": "Branch",
     "timestamp": "2024-02-22T20:55:00Z",
-    "sourceAccount": "GB32HSBC46094812068420",
+    "sourceAccount": "GB82NWBK57558934580932",
     "additionalData": {
       "merchantName": "Airbnb",
       "merchantCategory": "Retail"
@@ -1042,7 +1042,7 @@
     "currency": "EUR",
     "channel": "MobileBanking",
     "timestamp": "2024-02-01T21:06:00Z",
-    "sourceAccount": "GB51WEST26232512347527",
+    "sourceAccount": "GB59HSBC97131957868431",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
@@ -1064,7 +1064,7 @@
     "currency": "EUR",
     "channel": "UPI",
     "timestamp": "2024-02-04T17:48:00Z",
-    "sourceAccount": "GB51NWBK88975596351636",
+    "sourceAccount": "GB55NWBK69935982538567",
     "additionalData": {
       "merchantName": "Airbnb",
       "merchantCategory": "Retail"
@@ -1086,7 +1086,7 @@
     "currency": "EUR",
     "channel": "UPI",
     "timestamp": "2024-02-27T02:29:00Z",
-    "sourceAccount": "GB28NWBK42584340140449",
+    "sourceAccount": "GB64BARC55777138779102",
     "additionalData": {
       "merchantName": "Airbnb",
       "merchantCategory": "Retail"
@@ -1108,7 +1108,7 @@
     "currency": "USD",
     "channel": "Branch",
     "timestamp": "2024-02-19T22:55:00Z",
-    "sourceAccount": "GB62WEST32985127721694",
+    "sourceAccount": "GB84WEST33324179118136",
     "additionalData": {
       "merchantName": "Uber",
       "merchantCategory": "Retail"
@@ -1130,7 +1130,7 @@
     "currency": "EUR",
     "channel": "Branch",
     "timestamp": "2024-02-09T04:12:00Z",
-    "sourceAccount": "GB47BARC22515323254111",
+    "sourceAccount": "GB71NWBK80955174517685",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -1152,7 +1152,7 @@
     "currency": "EUR",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-28T16:43:00Z",
-    "sourceAccount": "GB16NWBK85636862814274",
+    "sourceAccount": "GB39NWBK49615887780738",
     "additionalData": {
       "merchantName": "Uber",
       "merchantCategory": "Retail"
@@ -1174,7 +1174,7 @@
     "currency": "USD",
     "channel": "MobileBanking",
     "timestamp": "2024-02-18T08:28:00Z",
-    "sourceAccount": "GB76NWBK31088734356243",
+    "sourceAccount": "GB82WEST83955597505408",
     "additionalData": {
       "merchantName": "Uber",
       "merchantCategory": "Retail"
@@ -1196,7 +1196,7 @@
     "currency": "EUR",
     "channel": "MobileBanking",
     "timestamp": "2024-02-16T16:13:00Z",
-    "sourceAccount": "GB66NWBK37295766783952",
+    "sourceAccount": "GB11BARC43364194810317",
     "additionalData": {
       "merchantName": "Airbnb",
       "merchantCategory": "Retail"
@@ -1218,7 +1218,7 @@
     "currency": "GBP",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-19T04:51:00Z",
-    "sourceAccount": "GB67HSBC85041530943162",
+    "sourceAccount": "GB27BARC21597549862613",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -1240,7 +1240,7 @@
     "currency": "GBP",
     "channel": "UPI",
     "timestamp": "2024-02-24T22:10:00Z",
-    "sourceAccount": "GB62BARC33364673932191",
+    "sourceAccount": "GB80WEST78218712228012",
     "additionalData": {
       "merchantName": "Uber",
       "merchantCategory": "Retail"
@@ -1262,7 +1262,7 @@
     "currency": "GBP",
     "channel": "MobileBanking",
     "timestamp": "2024-02-23T21:04:00Z",
-    "sourceAccount": "GB66WEST14453844582014",
+    "sourceAccount": "GB18BARC66872616163241",
     "additionalData": {
       "merchantName": "Airbnb",
       "merchantCategory": "Retail"
@@ -1284,7 +1284,7 @@
     "currency": "USD",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-22T03:37:00Z",
-    "sourceAccount": "GB28WEST11238575301602",
+    "sourceAccount": "GB39BARC50729864344766",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
@@ -1306,7 +1306,7 @@
     "currency": "USD",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-24T11:27:00Z",
-    "sourceAccount": "GB68BARC72166522288881",
+    "sourceAccount": "GB15WEST17243839720205",
     "additionalData": {
       "merchantName": "Amazon",
       "merchantCategory": "Retail"
@@ -1328,7 +1328,7 @@
     "currency": "EUR",
     "channel": "UPI",
     "timestamp": "2024-02-11T21:43:00Z",
-    "sourceAccount": "GB95HSBC61314923621975",
+    "sourceAccount": "GB41WEST70954890254243",
     "additionalData": {
       "merchantName": "Airbnb",
       "merchantCategory": "Retail"
@@ -1350,7 +1350,7 @@
     "currency": "GBP",
     "channel": "UPI",
     "timestamp": "2024-02-11T21:26:00Z",
-    "sourceAccount": "GB90HSBC47625739362152",
+    "sourceAccount": "GB98BARC35464484851731",
     "additionalData": {
       "merchantName": "Airbnb",
       "merchantCategory": "Retail"
@@ -1372,7 +1372,7 @@
     "currency": "GBP",
     "channel": "MobileBanking",
     "timestamp": "2024-02-18T07:51:00Z",
-    "sourceAccount": "GB36BARC39420979888096",
+    "sourceAccount": "GB12NWBK62823085723853",
     "additionalData": {
       "merchantName": "Tesco",
       "merchantCategory": "Retail"
@@ -1394,7 +1394,7 @@
     "currency": "EUR",
     "channel": "UPI",
     "timestamp": "2024-02-09T12:42:00Z",
-    "sourceAccount": "GB48HSBC66069884759667",
+    "sourceAccount": "GB62BARC15078964299169",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
@@ -1416,7 +1416,7 @@
     "currency": "GBP",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-20T00:46:00Z",
-    "sourceAccount": "GB82HSBC68030573847666",
+    "sourceAccount": "GB36NWBK18942968506936",
     "additionalData": {
       "merchantName": "Tesco",
       "merchantCategory": "Retail"
@@ -1438,7 +1438,7 @@
     "currency": "USD",
     "channel": "Branch",
     "timestamp": "2024-02-17T21:22:00Z",
-    "sourceAccount": "GB40BARC77785258365755",
+    "sourceAccount": "GB46NWBK43846385922843",
     "additionalData": {
       "merchantName": "Amazon",
       "merchantCategory": "Retail"
@@ -1460,7 +1460,7 @@
     "currency": "GBP",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-20T06:29:00Z",
-    "sourceAccount": "GB89BARC86974961981566",
+    "sourceAccount": "GB44BARC45193757908603",
     "additionalData": {
       "merchantName": "Airbnb",
       "merchantCategory": "Retail"
@@ -1482,7 +1482,7 @@
     "currency": "USD",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-11T18:49:00Z",
-    "sourceAccount": "GB90WEST50256724810794",
+    "sourceAccount": "GB12NWBK30283946636218",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
@@ -1504,7 +1504,7 @@
     "currency": "GBP",
     "channel": "Branch",
     "timestamp": "2024-02-13T10:05:00Z",
-    "sourceAccount": "GB72NWBK98939751831316",
+    "sourceAccount": "GB94HSBC13966438061576",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
@@ -1526,7 +1526,7 @@
     "currency": "GBP",
     "channel": "MobileBanking",
     "timestamp": "2024-02-24T08:46:00Z",
-    "sourceAccount": "GB26HSBC29500198467080",
+    "sourceAccount": "GB39HSBC46154233736378",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -1548,7 +1548,7 @@
     "currency": "GBP",
     "channel": "MobileBanking",
     "timestamp": "2024-02-19T07:21:00Z",
-    "sourceAccount": "GB48NWBK72923858394418",
+    "sourceAccount": "GB49NWBK89847382679743",
     "additionalData": {
       "merchantName": "Tesco",
       "merchantCategory": "Retail"
@@ -1570,7 +1570,7 @@
     "currency": "EUR",
     "channel": "UPI",
     "timestamp": "2024-02-09T23:31:00Z",
-    "sourceAccount": "GB24BARC81167431883513",
+    "sourceAccount": "GB44WEST95906752223370",
     "additionalData": {
       "merchantName": "Uber",
       "merchantCategory": "Retail"
@@ -1592,7 +1592,7 @@
     "currency": "GBP",
     "channel": "MobileBanking",
     "timestamp": "2024-02-09T10:51:00Z",
-    "sourceAccount": "GB99HSBC76080298039443",
+    "sourceAccount": "GB63BARC21918030292396",
     "additionalData": {
       "merchantName": "Airbnb",
       "merchantCategory": "Retail"
@@ -1614,7 +1614,7 @@
     "currency": "GBP",
     "channel": "MobileBanking",
     "timestamp": "2024-02-21T21:25:00Z",
-    "sourceAccount": "GB47HSBC41576987366876",
+    "sourceAccount": "GB52NWBK66358133921519",
     "additionalData": {
       "merchantName": "Amazon",
       "merchantCategory": "Retail"
@@ -1636,7 +1636,7 @@
     "currency": "GBP",
     "channel": "Branch",
     "timestamp": "2024-02-27T15:09:00Z",
-    "sourceAccount": "GB19WEST12090917049797",
+    "sourceAccount": "GB64BARC17384821874487",
     "additionalData": {
       "merchantName": "Tesco",
       "merchantCategory": "Retail"
@@ -1658,7 +1658,7 @@
     "currency": "EUR",
     "channel": "UPI",
     "timestamp": "2024-02-01T19:27:00Z",
-    "sourceAccount": "GB35BARC59425152546943",
+    "sourceAccount": "GB61NWBK94578846309145",
     "additionalData": {
       "merchantName": "Amazon",
       "merchantCategory": "Retail"
@@ -1680,7 +1680,7 @@
     "currency": "EUR",
     "channel": "Branch",
     "timestamp": "2024-02-27T09:09:00Z",
-    "sourceAccount": "GB14BARC40644537221201",
+    "sourceAccount": "GB65WEST12614622776129",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
@@ -1702,7 +1702,7 @@
     "currency": "EUR",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-01T11:13:00Z",
-    "sourceAccount": "GB84NWBK42941869620282",
+    "sourceAccount": "GB44WEST55318933467287",
     "additionalData": {
       "merchantName": "Airbnb",
       "merchantCategory": "Retail"
@@ -1724,7 +1724,7 @@
     "currency": "USD",
     "channel": "MobileBanking",
     "timestamp": "2024-02-28T03:28:00Z",
-    "sourceAccount": "GB89BARC51639116309267",
+    "sourceAccount": "GB54WEST47868733249472",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -1746,7 +1746,7 @@
     "currency": "USD",
     "channel": "MobileBanking",
     "timestamp": "2024-02-04T16:52:00Z",
-    "sourceAccount": "GB72BARC30976466135086",
+    "sourceAccount": "GB90HSBC14888057464716",
     "additionalData": {
       "merchantName": "Tesco",
       "merchantCategory": "Retail"
@@ -1768,7 +1768,7 @@
     "currency": "GBP",
     "channel": "MobileBanking",
     "timestamp": "2024-02-03T16:20:00Z",
-    "sourceAccount": "GB17NWBK35410589145251",
+    "sourceAccount": "GB85HSBC15457129027068",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
@@ -1790,7 +1790,7 @@
     "currency": "USD",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-20T09:51:00Z",
-    "sourceAccount": "GB36BARC80067566286528",
+    "sourceAccount": "GB82WEST28766633664190",
     "additionalData": {
       "merchantName": "Uber",
       "merchantCategory": "Retail"
@@ -1812,7 +1812,7 @@
     "currency": "GBP",
     "channel": "MobileBanking",
     "timestamp": "2024-02-15T17:26:00Z",
-    "sourceAccount": "GB96HSBC68014169994223",
+    "sourceAccount": "GB93NWBK18442028216130",
     "additionalData": {
       "merchantName": "Tesco",
       "merchantCategory": "Retail"
@@ -1834,7 +1834,7 @@
     "currency": "USD",
     "channel": "UPI",
     "timestamp": "2024-02-05T21:03:00Z",
-    "sourceAccount": "GB34NWBK37183517179359",
+    "sourceAccount": "GB72WEST75629053007017",
     "additionalData": {
       "merchantName": "Amazon",
       "merchantCategory": "Retail"
@@ -1856,7 +1856,7 @@
     "currency": "USD",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-13T20:40:00Z",
-    "sourceAccount": "GB43HSBC55759517233210",
+    "sourceAccount": "GB55NWBK60728284072221",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -1878,7 +1878,7 @@
     "currency": "EUR",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-28T15:04:00Z",
-    "sourceAccount": "GB55BARC23558431362023",
+    "sourceAccount": "GB88BARC17760495417540",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
@@ -1900,7 +1900,7 @@
     "currency": "GBP",
     "channel": "UPI",
     "timestamp": "2024-02-11T18:57:00Z",
-    "sourceAccount": "GB83BARC70280643948100",
+    "sourceAccount": "GB69WEST37387796943269",
     "additionalData": {
       "merchantName": "Tesco",
       "merchantCategory": "Retail"
@@ -1922,7 +1922,7 @@
     "currency": "EUR",
     "channel": "UPI",
     "timestamp": "2024-02-07T11:46:00Z",
-    "sourceAccount": "GB45BARC75761593495549",
+    "sourceAccount": "GB61WEST38870714652527",
     "additionalData": {
       "merchantName": "Amazon",
       "merchantCategory": "Retail"
@@ -1944,7 +1944,7 @@
     "currency": "GBP",
     "channel": "UPI",
     "timestamp": "2024-02-09T14:44:00Z",
-    "sourceAccount": "GB60WEST88750890968918",
+    "sourceAccount": "GB72HSBC87899798772457",
     "additionalData": {
       "merchantName": "Tesco",
       "merchantCategory": "Retail"
@@ -1966,7 +1966,7 @@
     "currency": "GBP",
     "channel": "Branch",
     "timestamp": "2024-02-10T06:17:00Z",
-    "sourceAccount": "GB57WEST95400983307038",
+    "sourceAccount": "GB54BARC67488129966163",
     "additionalData": {
       "merchantName": "Tesco",
       "merchantCategory": "Retail"
@@ -1988,7 +1988,7 @@
     "currency": "USD",
     "channel": "MobileBanking",
     "timestamp": "2024-02-22T21:10:00Z",
-    "sourceAccount": "GB26BARC19080311396138",
+    "sourceAccount": "GB29WEST57722219551149",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
@@ -2010,7 +2010,7 @@
     "currency": "USD",
     "channel": "Branch",
     "timestamp": "2024-02-06T02:25:00Z",
-    "sourceAccount": "GB64BARC98676917615140",
+    "sourceAccount": "GB94BARC16096489202246",
     "additionalData": {
       "merchantName": "Amazon",
       "merchantCategory": "Retail"
@@ -2032,7 +2032,7 @@
     "currency": "GBP",
     "channel": "MobileBanking",
     "timestamp": "2024-02-19T07:49:00Z",
-    "sourceAccount": "GB60WEST22942686718658",
+    "sourceAccount": "GB71NWBK22480523268725",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -2054,7 +2054,7 @@
     "currency": "USD",
     "channel": "Branch",
     "timestamp": "2024-02-02T21:29:00Z",
-    "sourceAccount": "GB66WEST31804351313286",
+    "sourceAccount": "GB31BARC83909385449703",
     "additionalData": {
       "merchantName": "Amazon",
       "merchantCategory": "Retail"
@@ -2076,7 +2076,7 @@
     "currency": "EUR",
     "channel": "MobileBanking",
     "timestamp": "2024-02-13T10:06:00Z",
-    "sourceAccount": "GB63BARC93124346962546",
+    "sourceAccount": "GB96NWBK17827365876772",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -2098,7 +2098,7 @@
     "currency": "EUR",
     "channel": "Branch",
     "timestamp": "2024-02-26T01:29:00Z",
-    "sourceAccount": "GB17WEST47681027878189",
+    "sourceAccount": "GB29BARC75928196298919",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -2120,7 +2120,7 @@
     "currency": "GBP",
     "channel": "MobileBanking",
     "timestamp": "2024-02-24T20:59:00Z",
-    "sourceAccount": "GB23WEST96254612759643",
+    "sourceAccount": "GB70WEST31470624495416",
     "additionalData": {
       "merchantName": "Amazon",
       "merchantCategory": "Retail"
@@ -2142,7 +2142,7 @@
     "currency": "EUR",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-02T06:36:00Z",
-    "sourceAccount": "GB35NWBK69331069514248",
+    "sourceAccount": "GB65WEST23756517710985",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -2164,7 +2164,7 @@
     "currency": "USD",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-25T07:18:00Z",
-    "sourceAccount": "GB98HSBC76240727855554",
+    "sourceAccount": "GB32NWBK44832732577857",
     "additionalData": {
       "merchantName": "Uber",
       "merchantCategory": "Retail"
@@ -2186,7 +2186,7 @@
     "currency": "USD",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-13T21:07:00Z",
-    "sourceAccount": "GB33NWBK92099425062608",
+    "sourceAccount": "GB80NWBK88183497181597",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
@@ -2208,7 +2208,7 @@
     "currency": "EUR",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-13T08:47:00Z",
-    "sourceAccount": "GB76NWBK92431341495605",
+    "sourceAccount": "GB65WEST57519833715312",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -2230,7 +2230,7 @@
     "currency": "GBP",
     "channel": "MobileBanking",
     "timestamp": "2024-02-21T08:25:00Z",
-    "sourceAccount": "GB42WEST11025341929212",
+    "sourceAccount": "GB63NWBK86100073245685",
     "additionalData": {
       "merchantName": "Uber",
       "merchantCategory": "Retail"
@@ -2252,7 +2252,7 @@
     "currency": "EUR",
     "channel": "Branch",
     "timestamp": "2024-02-12T02:42:00Z",
-    "sourceAccount": "GB50HSBC22827825950647",
+    "sourceAccount": "GB35BARC76365974515931",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
@@ -2274,7 +2274,7 @@
     "currency": "USD",
     "channel": "MobileBanking",
     "timestamp": "2024-02-24T10:28:00Z",
-    "sourceAccount": "GB16NWBK18327546348062",
+    "sourceAccount": "GB14WEST42302983024444",
     "additionalData": {
       "merchantName": "Tesco",
       "merchantCategory": "Retail"
@@ -2296,7 +2296,7 @@
     "currency": "GBP",
     "channel": "Branch",
     "timestamp": "2024-02-14T23:44:00Z",
-    "sourceAccount": "GB57WEST26609661093483",
+    "sourceAccount": "GB63WEST54727393229452",
     "additionalData": {
       "merchantName": "Tesco",
       "merchantCategory": "Retail"
@@ -2318,7 +2318,7 @@
     "currency": "GBP",
     "channel": "UPI",
     "timestamp": "2024-02-28T19:46:00Z",
-    "sourceAccount": "GB42WEST60035613002366",
+    "sourceAccount": "GB71WEST33335199910250",
     "additionalData": {
       "merchantName": "Tesco",
       "merchantCategory": "Retail"
@@ -2340,7 +2340,7 @@
     "currency": "EUR",
     "channel": "UPI",
     "timestamp": "2024-02-10T13:00:00Z",
-    "sourceAccount": "GB95BARC24870095153374",
+    "sourceAccount": "GB58HSBC92620022939945",
     "additionalData": {
       "merchantName": "Tesco",
       "merchantCategory": "Retail"
@@ -2362,7 +2362,7 @@
     "currency": "EUR",
     "channel": "UPI",
     "timestamp": "2024-02-09T03:00:00Z",
-    "sourceAccount": "GB58WEST73137739551273",
+    "sourceAccount": "GB69NWBK96114176898501",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -2384,7 +2384,7 @@
     "currency": "EUR",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-24T15:46:00Z",
-    "sourceAccount": "GB55BARC78361029436992",
+    "sourceAccount": "GB90HSBC98186418598933",
     "additionalData": {
       "merchantName": "Amazon",
       "merchantCategory": "Retail"
@@ -2406,7 +2406,7 @@
     "currency": "USD",
     "channel": "MobileBanking",
     "timestamp": "2024-02-25T11:30:00Z",
-    "sourceAccount": "GB76WEST32675794591283",
+    "sourceAccount": "GB90NWBK92609454479581",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -2428,7 +2428,7 @@
     "currency": "EUR",
     "channel": "MobileBanking",
     "timestamp": "2024-02-09T13:23:00Z",
-    "sourceAccount": "GB22BARC31131533700623",
+    "sourceAccount": "GB75NWBK81332642315423",
     "additionalData": {
       "merchantName": "Uber",
       "merchantCategory": "Retail"
@@ -2450,7 +2450,7 @@
     "currency": "USD",
     "channel": "Branch",
     "timestamp": "2024-02-13T01:00:00Z",
-    "sourceAccount": "GB70NWBK93024038069903",
+    "sourceAccount": "GB81HSBC97877770902197",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
@@ -2472,7 +2472,7 @@
     "currency": "USD",
     "channel": "UPI",
     "timestamp": "2024-02-15T03:12:00Z",
-    "sourceAccount": "GB89BARC13734744613907",
+    "sourceAccount": "GB92NWBK59025365197476",
     "additionalData": {
       "merchantName": "Amazon",
       "merchantCategory": "Retail"
@@ -2494,7 +2494,7 @@
     "currency": "EUR",
     "channel": "UPI",
     "timestamp": "2024-02-09T21:07:00Z",
-    "sourceAccount": "GB23WEST49235683470931",
+    "sourceAccount": "GB84BARC28281516418776",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -2516,7 +2516,7 @@
     "currency": "EUR",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-26T04:28:00Z",
-    "sourceAccount": "GB37WEST85173914241916",
+    "sourceAccount": "GB18NWBK10200957726345",
     "additionalData": {
       "merchantName": "Swiggy",
       "merchantCategory": "Retail"
@@ -2538,7 +2538,7 @@
     "currency": "EUR",
     "channel": "Branch",
     "timestamp": "2024-02-11T05:14:00Z",
-    "sourceAccount": "GB64WEST82779852163195",
+    "sourceAccount": "GB79HSBC36602983252567",
     "additionalData": {
       "merchantName": "Uber",
       "merchantCategory": "Retail"
@@ -2560,7 +2560,7 @@
     "currency": "GBP",
     "channel": "OnlineBanking",
     "timestamp": "2024-02-07T22:11:00Z",
-    "sourceAccount": "GB55WEST25897570147992",
+    "sourceAccount": "GB77WEST74726599397829",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
@@ -2582,7 +2582,7 @@
     "currency": "GBP",
     "channel": "Branch",
     "timestamp": "2024-02-02T18:41:00Z",
-    "sourceAccount": "GB93NWBK94055839462653",
+    "sourceAccount": "GB72BARC17781494370282",
     "additionalData": {
       "merchantName": "Airbnb",
       "merchantCategory": "Retail"
@@ -2604,7 +2604,7 @@
     "currency": "GBP",
     "channel": "MobileBanking",
     "timestamp": "2024-02-27T16:47:00Z",
-    "sourceAccount": "GB63WEST70322521445034",
+    "sourceAccount": "GB39WEST90233915381149",
     "additionalData": {
       "merchantName": "Airbnb",
       "merchantCategory": "Retail"
@@ -2626,7 +2626,7 @@
     "currency": "USD",
     "channel": "MobileBanking",
     "timestamp": "2024-02-28T04:26:00Z",
-    "sourceAccount": "GB83WEST22347872605749",
+    "sourceAccount": "GB31HSBC39352063649085",
     "additionalData": {
       "merchantName": "Zara",
       "merchantCategory": "Retail"
